@@ -12,7 +12,7 @@ C'est une web app installable : elle s'ajoute à l'écran d'accueil depuis Safar
 
 ## Ce que fait l'app
 
-- **Écran de lancement** : une citation chaque jour, puis tes échéances épinglées 📌, une par une. Un toucher passe à la suivante.
+- **Écran de lancement** : la citation du jour à chaque ouverture, puis tes échéances épinglées 📌, une par une. Un toucher passe à la suivante.
 - **Navigation** : glisse le doigt à gauche ou à droite pour changer d'onglet, ou utilise la barre du bas (elle défile).
 - **Modules** : dans ⚙︎ Réglages, chaque onglet et chaque bloc de l'accueil s'active ou se masque avec un interrupteur. Rien n'est effacé quand on masque.
 - **Habitudes** : liste entièrement modifiable (ajouter, modifier, retirer), historique par semaine et courbe de progression.
