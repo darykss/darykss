@@ -1,93 +1,93 @@
 {
- "generatedAt": "2026-11-17T11:50:03.641176+00:00",
+ "generatedAt": "2026-11-18T11:39:17.265574+00:00",
  "sections": [
   {
    "id": "une",
    "title": "À la une",
    "items": [
     {
-     "title": "Présidentielle 2027 : Marine Le Pen présente sa réforme des retraites et promet que « des centaines de milliers de travailleurs partiront plus tôt » qu’avec la réforme Borne",
-     "desc": "La candidate du RN a promis que sa réforme sera « engagée dès [son] arrivée au pouvoir » et promet d’abolir celle d’Elisabeth Borne au 1ᵉʳ janvier 2028. En proposant un système basé sur la progressivité et une part de…",
-     "link": "https://www.lemonde.fr/politique/article/2026/11/17/presidentielle-2027-marine-le-pen-presente-sa-reforme-des-retraites-et-promet-que-des-centaines-de-milliers-de-travailleurs-partiront-plus-tot-qu-avec-la-reforme-borne_6812963_823448.html",
-     "source": "Le Monde",
-     "date": "2026-11-17T11:32:20+00:00"
-    },
-    {
-     "title": "Manifestations du 17 novembre : le trafic des trains régionaux perturbé, des stations de métro fermées à Paris",
-     "desc": "L'intersyndicale appelle les agents de la fonction publique à une nouvelle journée d'action pour réclamer une hausse des salaires face à l'inflation",
-     "link": "https://www.franceinfo.fr/societe/manifestations/direct-greve-et-manifestations-du-17-novembre-suivez-la-journee-de-mobilisation_8285927.html#xtor=RSS-3-[lestitres]",
+     "title": "Priorité donnée à l'école, rétablissement des comptes publics... Edouard Philippe met en lumière plusieurs mesures de son programme présidentiel",
+     "desc": "Le candidat Horizons à la présidentielle a présenté mercredi, lors d'une conférence de presse, son projet \"à date\".",
+     "link": "https://www.franceinfo.fr/politique/edouard-philippe/priorite-donnee-a-l-ecole-retablissement-des-comptes-publics-edouard-philippe-met-en-lumiere-plusieurs-mesures-de-son-programme-presidentiel_8287970.html#xtor=RSS-3-[lestitres]",
      "source": "franceinfo",
-     "date": "2026-11-17T11:24:28+00:00"
+     "date": "2026-11-18T11:34:42+00:00"
     },
     {
-     "title": "Guerre en Ukraine : la Russie estime que la présence de soldats français sur le terrain équivaut à une \"participation directe\" au conflit",
-     "desc": "Plusieurs dizaines de militaires français se trouvent en Ukraine pour de possibles actions de maintenance et de formation, selon les informations de RFI et du \"Monde\", confirmées par France Télévisions.",
-     "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-estime-que-la-presence-de-soldats-francais-sur-le-terrain-equivaut-a-une-participation-directe-au-conflit_8286344.html#xtor=RSS-3-[lestitres]",
-     "source": "franceinfo",
-     "date": "2026-11-17T11:19:45+00:00"
-    },
-    {
-     "title": "\"Les hommes devraient rester un peu au-dessus\" : ces discours masculinistes contre lesquels la ville de Paris veut lutter avec son MascuRadar",
-     "desc": "Une campagne d'affichage et des moyens supplémentaires pour des associations. La ville de Paris lance une nouvelle opération de lutte contre les discours masculinistes, qui imprègnent de plus en plus les adolescents et…",
-     "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/les-hommes-devraient-rester-un-peu-au-dessus-ces-discours-masculinistes-tres-relayes-chez-les-jeunes-et-contre-lesquels-la-ville-de-paris-veut-lutter_8286092.html#xtor=RSS-3-[lestitres]",
-     "source": "franceinfo",
-     "date": "2026-11-17T11:11:05+00:00"
-    },
-    {
-     "title": "La pétition contre CNews définitivement classée, mais l'Assemblée nationale va débattre du pluralisme dans les médias",
-     "desc": "Les instances du Palais-Bourbon ont voté pour qu'un débat se tienne sur la liberté d'expression, mais il ne portera pas seulement sur la chaîne d'information en continu du groupe Bolloré, spécifiquement visée par le…",
-     "link": "https://www.franceinfo.fr/economie/medias/info-franceinfo-l-assemblee-nationale-va-debattre-du-pluralisme-dans-les-medias-meme-si-la-petition-contre-cnews-ne-sera-pas-examinee-dans-l-hemicycle_8286251.html#xtor=RSS-3-[lestitres]",
-     "source": "franceinfo",
-     "date": "2026-11-17T10:28:07+00:00"
-    },
-    {
-     "title": "Jean-Luc Mélenchon, candidat LFI à la présidentielle, va dîner avec des grands patrons français dont Bernard Arnault et Patrick Pouyanné",
-     "desc": "Le leader de La France insoumise répond à l'invitation d'une association patronale qui avait reçu Marine Le Pen au printemps.",
-     "link": "https://www.franceinfo.fr/elections/presidentielle/candidats/jean-luc-melenchon-candidat-a-la-presidentielle-va-diner-avec-des-grands-patrons-francais-dont-bernard-arnault-et-patrick-pouyanne_8286248.html#xtor=RSS-3-[lestitres]",
-     "source": "franceinfo",
-     "date": "2026-11-17T10:23:56+00:00"
-    },
-    {
-     "title": "Ce que l'on sait du \"hub de retour\" européen prévu au Rwanda pour expulser des étrangers déboutés du droit d'asile",
-     "desc": "Cinq pays de l'Union européenne ont annoncé l'ouverture de ce centre pour 2027. Les personnes migrantes expulsées de l'UE, d'abord des hommes célibataires, recevraient notamment un permis de séjour au Rwanda. Des ONG…",
-     "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/ce-que-l-on-sait-du-hub-de-retour-europeen-prevu-au-rwanda-pour-expulser-des-etrangers-deboutes-du-droit-d-asile_8286134.html#xtor=RSS-3-[lestitres]",
-     "source": "franceinfo",
-     "date": "2026-11-17T10:02:13+00:00"
-    },
-    {
-     "title": "La Commission européenne confirme le décrochage de la France dans ses prévisions économiques d’automne",
-     "desc": "En 2026, la croissance de l’Union européenne a mieux résisté que ne l’attendaient les experts de la Commission, sauf dans l’Hexagone, qui fait pâle figure. Quant à l’inflation, elle va continuer à grever le pouvoir…",
-     "link": "https://www.lemonde.fr/economie/article/2026/11/17/la-commission-europeenne-confirme-le-decrochage-de-la-france-dans-ses-previsions-economiques-d-automne_6812945_3234.html",
+     "title": "La sonde Voyager 1 est désormais à la distance vertigineuse d’un jour-lumière de la Terre",
+     "desc": "Il faut désormais vingt-quatre heures aux ondes radios pour atteindre l’iconique sonde interplanétaire de la NASA. Objet humain le plus lointain de notre planète, la sonde devrait mettre trente mille ans pour quitter…",
+     "link": "https://www.lemonde.fr/sciences/article/2026/11/18/la-sonde-voyager-1-est-desormais-a-la-distance-vertigineuse-d-un-jour-lumiere-de-la-terre_6813119_1650684.html",
      "source": "Le Monde",
-     "date": "2026-11-17T10:00:04+00:00"
+     "date": "2026-11-18T11:30:02+00:00"
     },
     {
-     "title": "Dassault contre Airbus, une rivalité industrielle qui complique le réarmement de l’Europe",
-     "desc": "Engagés sur des programmes communs, comme le système de combat aérien du futur (SCAF) ou l’Eurodrone, les deux groupes n’ont jamais réussi à travailler ensemble. Une mésentente durable qui remonte à leur origine.",
-     "link": "https://www.lemonde.fr/economie/article/2026/11/17/dassault-contre-airbus-une-rivalite-industrielle-qui-complique-le-rearmement-de-l-europe_6812935_3234.html",
-     "source": "Le Monde",
-     "date": "2026-11-17T09:34:06+00:00"
+     "title": "Des dizaines de policiers manifestent devant le ministère de l'Intérieur lors d'une action surprise",
+     "desc": "À l'appel du syndicat Alliance, des dizaines de policiers sont arrivées place Beauvau à Paris, là où se trouve le ministère de l'Intérieur. Ils réclament de meilleures conditions de travail.",
+     "link": "https://www.franceinfo.fr/societe/manifestation-des-policiers/des-dizaines-de-policiers-manifestent-devant-le-ministere-de-l-interieur-lors-d-une-action-surprise_8288123.html#xtor=RSS-3-[lestitres]",
+     "source": "franceinfo",
+     "date": "2026-11-18T10:56:12+00:00"
     },
     {
-     "title": "EN DIRECT, grève du 17 novembre | Interdiction d’une AG à Marseille, perturbations dans les transports parisiens… suivez la journée avec nos envoyés spéciaux partout en France",
-     "desc": "L’ensemble des organisations syndicales dans la fonction publique appellent à se mobiliser ce mardi pour exiger des augmentations immédiates de salaires. Nos correspondants sont sur place à Paris, Marseille, Lyon,…",
-     "link": "https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-suivez-la-journee-avec-nos-envoyes-speciaux-a-paris-marseille-lyon-toulouse-en-bretagne-et-dans-le-nord_6812905_823448.html",
-     "source": "Le Monde",
-     "date": "2026-11-17T09:16:08+00:00"
+     "title": "Les avocats de la France insoumise annoncent saisir le Conseil d'État dans l'affaire des ingérences étrangères aux élections municipales à Toulouse",
+     "desc": "Leur recours électoral porté devant le tribunal administratif de Toulouse a été rejeté à la mi-octobre. Ils dénoncent des ingérences numériques attribuées à des organisations proches du gouvernement israélien.",
+     "link": "https://www.franceinfo.fr/societe/justice/les-avocats-de-la-france-insoumise-annoncent-saisir-le-conseil-d-etat-dans-l-affaire-des-ingerences-etrangeres-aux-elections-municipales-a-toulouse_8288102.html#xtor=RSS-3-[lestitres]",
+     "source": "franceinfo",
+     "date": "2026-11-18T10:47:24+00:00"
     },
     {
-     "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky revendique l’attaque du pont de Crimée, la Russie promet de le « restaurer »",
-     "desc": "« Aujourd’hui, chacun peut voir les conséquences sur le principal point de passage militaire reliant le territoire de la Russie à notre Crimée ukrainienne », a dit le président ukrainien. Le Comité d’enquête de la…",
-     "link": "https://www.lemonde.fr/international/live/2026/11/17/en-direct-guerre-en-ukraine-une-enquete-penale-ouverte-en-russie-apres-le-bombardement-du-pont-de-crimee-deux-ponts-majeurs-de-kiev-fermes-apres-des-frappes-russes_6810982_3210.html",
+     "title": "Sommet Xi-Trump-Poutine : ceci n’est pas un Yalta",
+     "desc": "2026 n’est pas 1945 : la rencontre entre les présidents Xi Jinping, Vladimir Poutine et Donald Trump à Shenzhen, en Chine, ne débouchera sur aucun redécoupage du monde, les trois protagonistes conservant des intérêts…",
+     "link": "https://www.lemonde.fr/idees/article/2026/11/18/sommet-xi-trump-poutine-ceci-n-est-pas-un-yalta_6813109_3232.html",
      "source": "Le Monde",
-     "date": "2026-11-17T09:06:32+00:00"
+     "date": "2026-11-18T10:30:02+00:00"
     },
     {
-     "title": "« Inside Deutsche Bank » : malgré les scandales et la guerre en Ukraine, la banque a tenté de préserver son activité avec les Russes",
-     "desc": "Pour l’établissement bancaire, la Russie représente un marché historique et fructueux alimenté par une clientèle de sociétés publiques aux pratiques douteuses et par des oligarques au profil sulfureux. Avec ses «…",
-     "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/17/inside-deutsche-bank-malgre-les-scandales-et-la-guerre-en-ukraine-la-banque-a-tente-de-preserver-son-activite-avec-les-russes_6812915_4355770.html",
+     "title": "Attaque américaine sur l'île de Qeshm, réplique iranienne sur les pays du Golfe… On fait le point sur le regain de tensions entre l'Iran et les Etats-Unis",
+     "desc": "Ces nouvelles tensions au Moyen-Orient interviennent alors que Donald Trump est attendu en Chine pour un sommet inédit avec ses homologues chinois et russe.",
+     "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/attaque-americaine-sur-l-ile-de-qeshm-replique-iranienne-sur-les-pays-du-golfe-on-fait-le-point-sur-le-regain-de-tensions-entre-l-iran-et-les-etats-unis_8287895.html#xtor=RSS-3-[lestitres]",
+     "source": "franceinfo",
+     "date": "2026-11-18T10:10:17+00:00"
+    },
+    {
+     "title": "« Inside Deutsche Bank » : comment le géant bancaire a découvert qu’il avait servi d’intermédiaire à un gigantesque réseau de blanchiment",
+     "desc": "En 2020, un analyste de la banque allemande met au jour un mécanisme de blanchiment. Le système, qui a brassé plus de 1,7 milliard d’euros et est lié à l’oligarque russe Oleg Deripaska, a exfiltré les fonds de la banque…",
+     "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/inside-deutsche-bank-comment-le-geant-bancaire-a-decouvert-qu-il-avait-servi-d-intermediaire-a-un-gigantesque-reseau-de-blanchiment_6813105_4355770.html",
      "source": "Le Monde",
-     "date": "2026-11-17T06:00:15+00:00"
+     "date": "2026-11-18T10:00:47+00:00"
+    },
+    {
+     "title": "Xi Jinping accueille Donald Trump à son arrivée en Chine avant un sommet tripartite inédit avec Vladimir Poutine pour évoquer les crises internationales",
+     "desc": "Le président américain est arrivé en Chine mercredi, alors que les chefs d'Etat russe et chinois se sont entretenus quelques heures plus tôt.",
+     "link": "https://www.franceinfo.fr/monde/xi-jinping-recoit-vladimir-poutine-avant-un-sommet-inedit-avec-donald-trump-pour-evoquer-les-crises-internationales_8287652.html#xtor=RSS-3-[lestitres]",
+     "source": "franceinfo",
+     "date": "2026-11-18T09:26:47+00:00"
+    },
+    {
+     "title": "Jean-Luc Mélenchon et l’Ukraine : ce que disent les votes de LFI au Parlement européen",
+     "desc": "Accusé d’ambiguïté sur la guerre en Ukraine, le candidat de La France insoumise à l’élection présidentielle assure que les « insoumis » défendent Kiev sans varier dans leurs votes au Parlement européen. Les Décodeurs du…",
+     "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/jean-luc-melenchon-et-l-ukraine-ce-que-disent-les-votes-de-la-france-insoumise-au-parlement-europeen_6813096_4355770.html",
+     "source": "Le Monde",
+     "date": "2026-11-18T08:45:01+00:00"
+    },
+    {
+     "title": "\"Une Amérique fragmentée\" : comment la saga de jeux vidéo \"GTA\" a réinventé son regard sur le rêve américain",
+     "desc": "Des voitures, des armes, des courses-poursuites… Sous ses allures de jeu de gangster urbain, \"Grand Theft Auto\" a, en plus de trente ans, pu affiner un regard critique de la société américaine et de ses évolutions, de…",
+     "link": "https://www.franceinfo.fr/culture/jeux-video/une-amerique-fragmentee-comment-la-saga-de-jeux-video-gta-a-reinvente-son-regard-sur-le-reve-americain_8287151.html#xtor=RSS-3-[lestitres]",
+     "source": "franceinfo",
+     "date": "2026-11-18T06:09:03+00:00"
+    },
+    {
+     "title": "La résistance prometteuse à la sécheresse de prairies innovantes dans le Poitou",
+     "desc": "Alors que partout en France des éleveurs cherchent à acheter du fourrage, manquant à cause d’un été trop sec, une unité de recherche de l’Inrae à Lusignan, dans la Vienne, démontre qu’un modèle agroécologique permet…",
+     "link": "https://www.lemonde.fr/economie/article/2026/11/18/face-a-la-secheresse-la-resistance-prometteuse-de-prairies-innovantes-dans-le-poitou_6813073_3234.html",
+     "source": "Le Monde",
+     "date": "2026-11-18T05:00:21+00:00"
+    },
+    {
+     "title": "Faut-il encore réformer les retraites ? Les faits à connaître pour comprendre le débat",
+     "desc": "« Les idées claires pour 2027 ». Dans quel état se trouve actuellement le système ? Quels seraient les leviers pour le réformer ? Voici les chiffres et notions à avoir en tête pour se situer dans l’un des grands débats…",
+     "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/faut-il-encore-reformer-les-retraites-les-faits-a-connaitre-pour-comprendre-le-debat_6813070_4355770.html",
+     "source": "Le Monde",
+     "date": "2026-11-18T05:00:10+00:00"
     }
    ]
   },
@@ -96,81 +96,81 @@
    "title": "Économie",
    "items": [
     {
-     "title": "Temu : la Commission européenne resserre l’étau sur le géant chinois de l’e-commerce pour non respect des normes de l’UE",
-     "desc": "La plateforme de vente en ligne distribue toujours, selon Bruxelles, des produits illégaux et dangereux, sans chercher à en limiter l’accès aux consommateurs.",
-     "link": "https://www.lemonde.fr/economie/article/2026/11/17/la-commission-europeenne-resserre-l-etau-sur-temu-le-geant-chinois-de-l-e-commerce-pour-non-respect-des-normes-de-l-ue_6812960_3234.html",
+     "title": "\"Ne vous fiez pas à vos amis\": pourquoi les ados s’arrachent \"Power\", la bible du cynisme",
+     "desc": "Près de trente ans après sa sortie, \"Power, les 48 lois du pouvoir\" de l’Américain Robert Greene est devenu un phénomène chez les adolescents, porté par TikTok et le pass Culture. Un manuel de manipulation qui en dit…",
+     "link": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/ne-vous-fiez-pas-a-vos-amis-pourquoi-les-ados-s-arrachent-power-la-bible-du-cynisme_8266733.html#xtor=RSS-3-%5Beconomie%5D",
+     "source": "franceinfo",
+     "date": "2026-11-18T10:39:18+00:00"
+    },
+    {
+     "title": "A Paris, la fin des livraisons de Franprix par bateau met à l’arrêt le port de la Bourdonnais",
+     "desc": "Touché par l’inflation et la réduction des aides de l’Etat, Franprix met un terme à ses livraisons de marchandises par la Seine. Une décision qui provoque l’arrêt des activités du port situé près de la tour Eiffel.",
+     "link": "https://www.lemonde.fr/economie/article/2026/11/18/a-paris-la-fin-des-livraisons-de-franprix-par-bateau-met-a-l-arret-le-port-de-la-bourdonnais_6813108_3234.html",
      "source": "Le Monde",
-     "date": "2026-11-17T11:00:02+00:00"
+     "date": "2026-11-18T10:30:03+00:00"
     },
     {
-     "title": "Microbes, pétrole et hydrogène : l'audacieux recyclage d'une start-up texane",
-     "desc": "Au Texas, une start-up de biotechnologie s'essaie au recyclage de vieux puits de pétrole. Elle se sert de microbes pour produire de l'hydrogène.",
-     "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/microbes-petrole-et-hydrogene-l-audacieux-recyclage-d-une-start-up-texane_8265065.html#xtor=RSS-3-%5Beconomie%5D",
-     "source": "franceinfo",
-     "date": "2026-11-17T10:35:05+00:00"
-    },
-    {
-     "title": "INFO FRANCEINFO. La pétition contre CNews définitivement classée, mais l'Assemblée nationale va débattre du pluralisme dans les médias",
-     "desc": "Les instances du Palais-Bourbon ont voté pour qu'un débat se tienne sur la liberté d'expression, mais il ne portera pas seulement sur la chaîne d'information en continu du groupe Bolloré, spécifiquement visée par le…",
-     "link": "https://www.franceinfo.fr/economie/medias/info-franceinfo-l-assemblee-nationale-va-debattre-du-pluralisme-dans-les-medias-meme-si-la-petition-contre-cnews-ne-sera-pas-examinee-dans-l-hemicycle_8286251.html#xtor=RSS-3-%5Beconomie%5D",
-     "source": "franceinfo",
-     "date": "2026-11-17T10:28:07+00:00"
-    },
-    {
-     "title": "Textile au Bangladesh : nouveaux affrontements entre ouvriers et forces de l’ordre",
-     "desc": "Après un accord au début du mois concernant une hausse des salaires, les protestations ont repris mardi 17 novembre après le report d’une réunion de négociations.",
-     "link": "https://www.lemonde.fr/international/article/2026/11/17/textile-au-bangladesh-nouveaux-affrontements-entre-ouvriers-et-forces-de-l-ordre_6812947_3210.html",
+     "title": "Christel Heydemann (Orange) : « Faire des études scientifiques, c’est un passeport universel »",
+     "desc": "La directrice générale d’Orange, est l’invitée d’« Un Monde d’avance », notre nouveau rendez-vous entre des dirigeants de grandes entreprises, des journalistes du « Monde » et des jeunes. Troisième temps épisode de cet…",
+     "link": "https://www.lemonde.fr/podcasts/article/2026/11/18/christel-heydemann-orange-faire-des-etudes-scientifiques-c-est-un-passeport-universel_6813107_5463015.html",
      "source": "Le Monde",
-     "date": "2026-11-17T10:11:51+00:00"
+     "date": "2026-11-18T10:21:29+00:00"
     },
     {
-     "title": "Prix des carburants : une baisse dans plus de 90 % des stations-service, selon Mathieu Lefèvre, ministre délégué à la transition écologique",
-     "desc": "Le gouvernement a commencé le 1ᵉʳ novembre à vendre à prix coûtant des barils de gazole issus des stocks stratégiques, une opération qui s’étalera pendant trois mois.",
-     "link": "https://www.lemonde.fr/economie-francaise/article/2026/11/17/carburant-une-baisse-du-prix-dans-plus-de-90-des-stations-service-selon-mathieu-lefevre_6812943_1656968.html",
+     "title": "INFOGRAPHIE. Le SP95-E10 est repassé sous la barre des 2 euros le litre en moyenne",
+     "desc": "Le prix du litre de sans-plomb E10 à la pompe avait atteint un record le 20 septembre, selon nos données, en atteignant les 2,17 euros le litre en moyenne.",
+     "link": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/infographie-le-sp95-e10-est-repasse-sous-la-barre-des-2-euros-le-litre-en-moyenne_8287964.html#xtor=RSS-3-%5Beconomie%5D",
+     "source": "franceinfo",
+     "date": "2026-11-18T10:14:40+00:00"
+    },
+    {
+     "title": "Une voiture dépolluante testée au Japon",
+     "desc": "Le constructeur automobile japonais Mazda travaille sur un modèle non polluant, capable non seulement de capter le CO2 qu'il émet, mais aussi d'aspirer un peu de celui présent dans l'atmosphère.",
+     "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/une-voiture-depolluante-testee-au-japon_8266727.html#xtor=RSS-3-%5Beconomie%5D",
+     "source": "franceinfo",
+     "date": "2026-11-18T10:08:20+00:00"
+    },
+    {
+     "title": "La prévision de croissance de 1% en France pour 2027 \"est à risque\", reconnaît le ministre de l'Economie",
+     "desc": "Le gouvernement risque d'être contraint d'envisager de nouvelles mesures d'économies pour boucler le budget pour l'année 2027.",
+     "link": "https://www.franceinfo.fr/economie/budget/la-prevision-de-croissance-de-1-en-france-pour-2027-est-a-risque-reconnait-le-ministre-de-l-economie-roland-lescure_8288000.html#xtor=RSS-3-%5Beconomie%5D",
+     "source": "franceinfo",
+     "date": "2026-11-18T09:50:37+00:00"
+    },
+    {
+     "title": "Le BHV Marais reste fermé après son placement en redressement judiciaire mais espère \"rouvrir pour les fêtes\" de fin d'année",
+     "desc": "Dans un message adressé aux salariés, la direction du BHV Marais indique désormais que des dispositifs de sécurité incendie doivent être mis en conformité. L'objectif est d'être de retour \"dès que possible\",…",
+     "link": "https://www.franceinfo.fr/economie/le-bhv-marais-reste-ferme-apres-son-placement-en-redressement-judiciaire-mais-espere-rouvrir-pour-les-fetes-de-fin-d-annee_8288003.html#xtor=RSS-3-%5Beconomie%5D",
+     "source": "franceinfo",
+     "date": "2026-11-18T09:48:01+00:00"
+    },
+    {
+     "title": "Le paiement en 3 fois devient un crédit à la consommation",
+     "desc": "Salut c’est Sarah, ça dit quoi ? Le paiement fractionné en trois ou quatre fois sans frais sera considéré comme un prêt à la consommation à partir de ce vendredi 20 novembre. Il pourra rester sans frais mais sera…",
+     "link": "https://www.franceinfo.fr/economie/le-paiement-en-3-fois-devient-un-credit-a-la-consommation_8287988.html#xtor=RSS-3-%5Beconomie%5D",
+     "source": "franceinfo",
+     "date": "2026-11-18T09:22:45+00:00"
+    },
+    {
+     "title": "Rebecca Amsellem, économiste : « Pour les femmes, les écarts de revenus sont des écarts de liberté »",
+     "desc": "Dans un entretien au « Monde », la fondatrice de la newsletter féministe « Les Glorieuses » revient sur les inégalités salariales de genre. Ainsi, chaque année depuis 2016, elle calcule à partir de quel jour les femmes…",
+     "link": "https://www.lemonde.fr/economie/article/2026/11/18/rebecca-amsellem-economiste-pour-les-femmes-les-ecarts-de-revenus-sont-des-ecarts-de-liberte_6813089_3234.html",
      "source": "Le Monde",
-     "date": "2026-11-17T09:58:12+00:00"
+     "date": "2026-11-18T08:00:12+00:00"
     },
     {
-     "title": "Les données de nombreux centres de contrôle technique automobiles piratées",
-     "desc": "Des centres de Sécuritest, Auto Sécurité France et Vérif’Autos sont concernés par cette fuite, qui concernerait 13 millions de plaques d’immatriculation.",
-     "link": "https://www.lemonde.fr/pixels/article/2026/11/17/les-donnees-de-nombreux-centres-de-controle-technique-automobiles-piratees_6812941_4408996.html",
+     "title": "Nvidia : l’affaire Jensen Huang révèle les failles de l’administration Trump sur la Chine",
+     "desc": "Soutenu par la Silicon Valley et d’excellents résultats, le fondateur de la firme de microprocesseurs, rattrapé par plusieurs affaires d’adultère, tente de reprendre la tête de l’entreprise, qu’il avait été contraint de…",
+     "link": "https://www.lemonde.fr/economie/article/2026/11/18/nvidia-l-affaire-jensen-huang-revele-les-failles-de-l-administration-trump-sur-la-chine_6813087_3234.html",
      "source": "Le Monde",
-     "date": "2026-11-17T09:46:30+00:00"
+     "date": "2026-11-18T07:30:14+00:00"
     },
     {
-     "title": "Rachat de Commerzbank : « UniCredit est en passe de réussir son OPA à 45 milliards d’euros en Allemagne et de transformer l’Europe bancaire »",
-     "desc": "Deux ans après son lancement, le raid de l’italien sur l’allemand, approuvé par la Commission européenne lundi, illustre la volonté nouvelle de l’UE de favoriser les champions européens. Mais la consolidation bancaire a…",
-     "link": "https://www.lemonde.fr/economie/article/2026/11/17/rachat-de-commerzbank-unicredit-est-en-passe-de-reussir-son-opa-a-45-milliards-d-euros-en-allemagne-et-de-transformer-l-europe-bancaire_6812939_3234.html",
+     "title": "La crise climatique redessine déjà la carte du tourisme, les régions les plus visitées sont insuffisamment préparées, selon une étude",
+     "desc": "Alors que les risques liés à l’augmentation des températures vont s’accentuer, le secteur touristique doit s’adapter et surtout réduire ses émissions de gaz à effet de serre, qui augmentent, souligne le rapport…",
+     "link": "https://www.lemonde.fr/economie/article/2026/11/18/comment-le-changement-climatique-met-sous-pression-le-tourisme-mondial_6813079_3234.html",
      "source": "Le Monde",
-     "date": "2026-11-17T09:45:07+00:00"
-    },
-    {
-     "title": "Trois millions de personnes notent des bouts de bois sur Instagram, et c’est peut-être l'endroit le plus \"feel good\" d’internet",
-     "desc": "Sur Instagram, la communauté Stick Nation passe son temps à noter des bâtons ramassés dans la nature. Ce qui était une blague entre amis est devenu un phénomène mondial, et un recoin d’internet sans colère ni politique.",
-     "link": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/trois-millions-de-personnes-notent-des-bouts-de-bois-sur-instagram-et-c-est-peut-etre-l-endroit-le-plus-feel-good-d-internet_8265074.html#xtor=RSS-3-%5Beconomie%5D",
-     "source": "franceinfo",
-     "date": "2026-11-17T09:35:09+00:00"
-    },
-    {
-     "title": "Manifestations du 17 novembre : 300 000 personnes attendues dans les rues",
-     "desc": "Plus de 200 rassemblements et manifestations pour le pouvoir d'achat sont prévus en France mardi 17 novembre. La fonction publique est appelée dans la rue par l'intersyndicale, renforcée par la CFDT.",
-     "link": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/manifestations-du-17-novembre-300-000-personnes-attendues-dans-les-rues_8286218.html#xtor=RSS-3-%5Beconomie%5D",
-     "source": "franceinfo",
-     "date": "2026-11-17T09:16:31+00:00"
-    },
-    {
-     "title": "Les informés du matin du mardi 17 novembre 2026",
-     "desc": "Les informés débattent de l'actualité autour d'Agathe Lambret et Renaud Dély.",
-     "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mardi-17-novembre-2026_8265104.html#xtor=RSS-3-%5Beconomie%5D",
-     "source": "franceinfo",
-     "date": "2026-11-17T09:09:10+00:00"
-    },
-    {
-     "title": "Les syndicats affichent finalement leur unité lors d'une nouvelle mobilisation des fonctionnaires pour les salaires",
-     "desc": "Ils remontent à la charge mardi pour obtenir le dégel du point d'indice dont dépend la rémunération des agents de la fonction publique.",
-     "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/les-syndicats-affichent-finalement-leur-unite-lors-d-une-nouvelle-mobilisation-des-fonctionnaires-pour-les-salaires_8265092.html#xtor=RSS-3-%5Beconomie%5D",
-     "source": "franceinfo",
-     "date": "2026-11-17T09:01:30+00:00"
+     "date": "2026-11-18T05:55:09+00:00"
     }
    ]
   },
@@ -179,60 +179,74 @@
    "title": "Monde",
    "items": [
     {
-     "title": "DIRECT. Guerre en Ukraine : la Russie estime que la présence de soldats français sur le terrain équivaut à une \"participation directe\" au conflit",
-     "desc": "Plusieurs dizaines de militaires français se trouvent en Ukraine pour de possibles actions de maintenance et de formation, selon les informations de RFI et du \"Monde\", confirmées par France Télévisions.",
-     "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-estime-que-la-presence-de-soldats-francais-sur-le-terrain-equivaut-a-une-participation-directe-au-conflit_8286344.html#xtor=RSS-3-%5Bmonde%5D",
-     "source": "franceinfo",
-     "date": "2026-11-17T11:44:20+00:00"
-    },
-    {
-     "title": "Opérations en Russie, liens avec Jeffrey Epstein et Donald Trump… Les pratiques de la Deutsche Bank révélées par une enquête internationale",
-     "desc": "Un consortium de médias a enquêté sur les pratiques de la grande banque allemande, à partir de millions de documents fournis par deux lanceurs d'alerte. L'entreprise se défend et assure être \"une banque différente\".",
-     "link": "https://www.franceinfo.fr/monde/europe/allemagne/operations-en-russie-liens-avec-jeffrey-epstein-et-donald-trump-les-pratiques-de-la-deutsche-bank-revelees-par-une-enquete-internationale_8286254.html#xtor=RSS-3-%5Bmonde%5D",
-     "source": "franceinfo",
-     "date": "2026-11-17T11:43:30+00:00"
-    },
-    {
-     "title": "Le pont de Crimée endommagé par l’armée ukrainienne, l’aboutissement d’une opération complexe, selon Volodymyr Zelensky",
-     "desc": "Une arche et une partie du tablier du pont semblent s’être effondrées, selon l’armée ukrainienne. L’édifice, inauguré par Vladimir Poutine en 2018, avait déjà été pris pour cible, la veille.",
-     "link": "https://www.lemonde.fr/international/article/2026/11/17/le-pont-de-crimee-endommage-par-les-forces-ukrainiennes_6812962_3210.html",
+     "title": "Donald Trump est arrivé en Chine, avant un sommet tripartite inédit avec Xi Jinping et Vladimir Poutine",
+     "desc": "Le président américain, arrivé à Shenzhen mercredi après-midi, a été devancé par M. Poutine, arrivé dans la nuit de mardi à mercredi. Leur réunion, à l’agenda obscur, doit se tenir jeudi à 14 h 30.",
+     "link": "https://www.lemonde.fr/international/article/2026/11/18/donald-trump-est-arrive-en-chine-avant-un-sommet-tripartite-inedit-avec-xi-jinping-et-vladimir-poutine_6813120_3210.html",
      "source": "Le Monde",
-     "date": "2026-11-17T11:31:27+00:00"
+     "date": "2026-11-18T11:30:36+00:00"
     },
     {
-     "title": "La police de Londres traque les pickpockets avec des drones",
-     "desc": "La Metropolitan police de Londres a diffusé les images de la traque d’un pickpocket de téléphones avec un drone. Le drone suit le malfaiteur et diffuse les images en direct vers une salle de contrôle qui permet de…",
-     "link": "https://www.franceinfo.fr/faits-divers/police/la-police-de-londres-traque-les-pickpockets-avec-des-drones_8286428.html#xtor=RSS-3-%5Bmonde%5D",
-     "source": "franceinfo",
-     "date": "2026-11-17T11:15:12+00:00"
-    },
-    {
-     "title": "L’Iran revendique une attaque contre une base américaine à Bahreïn",
-     "desc": "Les combats connaissent une accalmie depuis septembre, mais vendredi, puis dimanche, l’Iran avait déjà revendiqué des attaques contre des systèmes de radars américains à Bahreïn.",
-     "link": "https://www.lemonde.fr/international/article/2026/11/17/l-iran-revendique-une-attaque-contre-une-base-americaine-a-bahrein_6812959_3210.html",
+     "title": "Au Bangladesh, la perspective d’un retour au pays de l’ancienne première ministre Sheikh Hasina attise les tensions politiques",
+     "desc": "L’ex-première ministre chassée par la rue en 2024 continue de peser sur la politique Bangladaise depuis son exil en Inde. La « dame de fer », condamnée à mort par contumace, promet de rentrer d’ici à la fin décembre,…",
+     "link": "https://www.lemonde.fr/international/article/2026/11/18/au-bangladesh-la-perspective-d-un-retour-au-pays-de-l-ancienne-premiere-ministre-sheikh-hasina-attise-les-tensions-politiques_6813116_3210.html",
      "source": "Le Monde",
-     "date": "2026-11-17T10:53:55+00:00"
+     "date": "2026-11-18T11:00:08+00:00"
     },
     {
-     "title": "Microbes, pétrole et hydrogène : l'audacieux recyclage d'une start-up texane",
-     "desc": "Au Texas, une start-up de biotechnologie s'essaie au recyclage de vieux puits de pétrole. Elle se sert de microbes pour produire de l'hydrogène.",
-     "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/microbes-petrole-et-hydrogene-l-audacieux-recyclage-d-une-start-up-texane_8265065.html#xtor=RSS-3-%5Bmonde%5D",
+     "title": "REPORTAGE. \"Ils envoient leurs hommes à la mort\" : des militaires ukrainiens décrivent l'impréparation des soldats russes envoyés au front",
+     "desc": "Avec plus de 400 000 morts, les pertes de l'armée russe seraient trois fois supérieures à celles de l'armée ukrainienne. Non loin du front, dans la ville d'Izium, des militaires ukrainiens décrivent les méthodes de…",
+     "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ils-envoient-leurs-hommes-a-la-mort-des-militaires-ukrainiens-decrivent-l-impreparation-des-soldats-russes-envoyes-au-front_8287886.html#xtor=RSS-3-%5Bmonde%5D",
      "source": "franceinfo",
-     "date": "2026-11-17T10:35:05+00:00"
+     "date": "2026-11-18T10:41:54+00:00"
     },
     {
-     "title": "Ce que l'on sait du \"hub de retour\" européen prévu au Rwanda pour expulser des étrangers déboutés du droit d'asile",
-     "desc": "Cinq pays de l'Union européenne ont annoncé l'ouverture de ce centre pour 2027. Les personnes migrantes expulsées de l'UE, d'abord des hommes célibataires, recevraient notamment un permis de séjour au Rwanda. Des ONG…",
-     "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/ce-que-l-on-sait-du-hub-de-retour-europeen-prevu-au-rwanda-pour-expulser-des-etrangers-deboutes-du-droit-d-asile_8286134.html#xtor=RSS-3-%5Bmonde%5D",
-     "source": "franceinfo",
-     "date": "2026-11-17T10:02:13+00:00"
+     "title": "Dans le nord-ouest de la Chine, un petit félin tient tête à un chantier d’éoliennes géantes",
+     "desc": "Une population de manuls, inscrits sur la liste nationale des animaux sauvages protégés, est menacée par un projet éolien près de la ville de Zhangye. Après l’intervention d’ONG, le département de l’environnement de la…",
+     "link": "https://www.lemonde.fr/planete/article/2026/11/18/dans-le-nord-ouest-de-la-chine-un-petit-felin-tient-tete-a-un-chantier-d-eoliennes-geantes_6813110_3244.html",
+     "source": "Le Monde",
+     "date": "2026-11-18T10:30:02+00:00"
     },
     {
-     "title": "Léon XIV touché à la tête par un bracelet de prière",
-     "desc": "Léon XIV a été frappé au visage par un bracelet de prière lancé par un fidèle dans la foule, lundi 16 novembre, alors que le pape déambulait en papamobile dans les rues de Lima, au Pérou, avant de célébrer la dernière…",
-     "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-touche-a-la-tete-par-un-bracelet-de-priere_8286185.html#xtor=RSS-3-%5Bmonde%5D",
+     "title": "Attaque américaine sur l'île de Qeshm, réplique iranienne sur les pays du Golfe… On fait le point sur le regain de tensions entre l'Iran et les Etats-Unis",
+     "desc": "Ces nouvelles tensions au Moyen-Orient interviennent alors que Donald Trump est attendu en Chine pour un sommet inédit avec ses homologues chinois et russe.",
+     "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/attaque-americaine-sur-l-ile-de-qeshm-replique-iranienne-sur-les-pays-du-golfe-on-fait-le-point-sur-le-regain-de-tensions-entre-l-iran-et-les-etats-unis_8287895.html#xtor=RSS-3-%5Bmonde%5D",
      "source": "franceinfo",
-     "date": "2026-11-17T08:37:19+00:00"
+     "date": "2026-11-18T10:10:17+00:00"
+    },
+    {
+     "title": "Une voiture dépolluante testée au Japon",
+     "desc": "Le constructeur automobile japonais Mazda travaille sur un modèle non polluant, capable non seulement de capter le CO2 qu'il émet, mais aussi d'aspirer un peu de celui présent dans l'atmosphère.",
+     "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/une-voiture-depolluante-testee-au-japon_8266727.html#xtor=RSS-3-%5Bmonde%5D",
+     "source": "franceinfo",
+     "date": "2026-11-18T10:08:20+00:00"
+    },
+    {
+     "title": "Les informés du matin du mercredi 18 novembre 2026",
+     "desc": "Les informés débattent de l'actualité autour d'Agathe Lambret et Renaud Dély.",
+     "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mercredi-18-novembre-2026_8266724.html#xtor=RSS-3-%5Bmonde%5D",
+     "source": "franceinfo",
+     "date": "2026-11-18T09:59:36+00:00"
+    },
+    {
+     "title": "Bruxelles menace Temu d'une nouvelle amende pour non-respect des règles européennes",
+     "desc": "Pointé du doigt à plusieurs reprises pour avoir mis en vente des produits dangereux ou défectueux, le géant chinois du commerce en ligne risque une nouvelle sanction. La Commission européenne reproche de nouveau à Temu…",
+     "link": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/bruxelles-menace-temu-d-une-nouvelle-amende-pour-non-respect-des-regles-europeennes_8287730.html#xtor=RSS-3-%5Bmonde%5D",
+     "source": "franceinfo",
+     "date": "2026-11-18T09:20:07+00:00"
+    },
+    {
+     "title": "EN DIRECT, guerre en Ukraine : les attaques russes se poursuivent à Odessa, où le bilan s’alourdit",
+     "desc": "Le centre historique d’Odessa a été visé une troisième fois mercredi matin. Selon un bilan provisoire, cette nouvelle frappe a tué une personne et blessé deux autres.",
+     "link": "https://www.lemonde.fr/international/live/2026/11/18/en-direct-guerre-en-ukraine-le-pont-de-crimee-lourdement-endommage-la-section-ferroviaire-reste-en-service_6810982_3210.html",
+     "source": "Le Monde",
+     "date": "2026-11-18T09:12:29+00:00"
+    },
+    {
+     "title": "Les démocrates s'imposent en Alaska et obtiennent leur plus large majorité au Sénat depuis seize ans",
+     "desc": "La victoire de Mary Peltola renforce la vague bleue démocrate aux Etats-Unis lors des élections de mi-mandat, et parachève le camouflet infligé au président Donald Trump.",
+     "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/les-democrates-s-imposent-en-alaska-et-obtiennent-leur-plus-large-majorite-au-senat-depuis-seize-ans_8287943.html#xtor=RSS-3-%5Bmonde%5D",
+     "source": "franceinfo",
+     "date": "2026-11-18T09:01:30+00:00"
     }
    ]
   },
@@ -241,46 +255,46 @@
    "title": "Sport",
    "items": [
     {
-     "title": "Retour sur l'affaire du chroniqueur sportif Pierre Ménès, jugé pour avoir agressé sexuellement plusieurs femmes",
-     "desc": "Le parquet de Nanterre a requis lundi deux ans de prison, dont un ferme aménageable, contre l'ancien consultant sportif de Canal+ Pierre Ménès, jugé pour agressions sexuelles sur trois femmes et harcèlement moral sur…",
-     "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/retour-sur-l-affaire-du-chroniqueur-sportif-pierre-menes-juge-pour-avoir-agresse-sexuellement-plusieurs-femmes_8286017.html#xtor=RSS-3-%5Bsports%5D",
+     "title": "Le sélectionneur sud-africain Rassie Erasmus suspendu six matchs après avoir critiqué l'arbitrage lors du Championnat des nations de rugby",
+     "desc": "La fédération internationale a prononcé sa sanction mardi, au lendemain de propos très critiques du Sud-Africain.",
+     "link": "https://www.franceinfo.fr/sports/rugby/coupe-d-automne-des-nations/le-selectionneur-sud-africain-rassie-erasmus-suspendu-six-matchs-apres-avoir-critique-l-arbitrage-lors-du-championnat-des-nations-de-rugby_8288051.html#xtor=RSS-3-%5Bsports%5D",
      "source": "franceinfo",
-     "date": "2026-11-17T10:57:58+00:00"
+     "date": "2026-11-18T10:41:26+00:00"
     },
     {
-     "title": "Fernando Alonso fera son retour sur le Dakar en 2027 chez Aston Martin",
-     "desc": "L'actuel pilote de Formule 1 a décidé de revenir au rallye-raid, sept ans après sa première participation. Le Français Sébastien Loeb sera aussi aligné sur le Dakar chez Aston Martin, tout comme le Brésilien Lucas…",
-     "link": "https://www.franceinfo.fr/dakar/fernando-alonso-fera-son-retour-sur-le-dakar-en-2027-chez-aston-martin_8224909.html#xtor=RSS-3-%5Bsports%5D",
+     "title": "La Fédération internationale de hockey sur glace victime d'une cyberattaque peu après avoir retoqué la participation des Russes au Mondial juniors",
+     "desc": "Le Tribunal arbitral du sport a imposé le 30 octobre la réintégration de la Russie aux championnats du monde de hockey. Mais la fronde de certaines nations a poussé la Fédération internationale à ne pas inclure les…",
+     "link": "https://www.franceinfo.fr/sports/hockey-sur-glace/la-federation-internationale-de-hockey-sur-glace-victime-d-une-cyberattaque-peu-apres-avoir-retoque-la-participation-des-russes-aux-mondiaux-juniors_8287931.html#xtor=RSS-3-%5Bsports%5D",
      "source": "franceinfo",
-     "date": "2026-11-17T10:03:48+00:00"
+     "date": "2026-11-18T08:47:58+00:00"
     },
     {
-     "title": "La présidence de la Fifa ou la quête sans fin d'un adversaire à Gianni Infantino",
-     "desc": "Les candidats à la présidence de l'instance du football mondial, dont le président de la Fédération française de football Philippe Diallo porté par l'UEFA, ont jusqu'à ce mercredi pour déposer leur dossier, alors que…",
-     "link": "https://www.franceinfo.fr/sports/foot/la-presidence-de-la-fifa-ou-la-quete-sans-fin-d-un-adversaire-a-gianni-infantino_8285057.html#xtor=RSS-3-%5Bsports%5D",
+     "title": "Antoine Griezmann élu recrue de l'année en MLS, une première pour un Français dans le championnat américain de football",
+     "desc": "L'ancien international tricolore a été récompensé mardi. Sous les couleurs d'Orlando City depuis juillet, il a inscrit 14 buts et délivré sept passes décisives en 18 journées.",
+     "link": "https://www.franceinfo.fr/sports/foot/antoine-griezmann/antoine-griezmann-elu-recrue-de-l-annee-en-mls-une-premiere-pour-un-francais-dans-le-championnat-americain-de-football_8287904.html#xtor=RSS-3-%5Bsports%5D",
      "source": "franceinfo",
-     "date": "2026-11-17T05:00:18+00:00"
+     "date": "2026-11-18T08:26:37+00:00"
     },
     {
-     "title": "\"Ulya\" : un conte initiatique à la photographie superbe, inspiré de la vie d'une mythique basketteuse lettonne",
-     "desc": "Loin des poncifs du biopic, le réalisateur Viesturs Kairiss signe un film d'une grande beauté formelle qui représentera la Lettonie aux Oscars 2027.",
-     "link": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/ulya-un-conte-initiatique-a-la-photographie-superbe-inspire-de-la-vie-d-une-mythique-basketteuse-lettonne_8270540.html#xtor=RSS-3-%5Bsports%5D",
+     "title": "Elle lutte pour faire entrer la trisomie aux Jeux paralympiques et en appelle à Léon Marchand",
+     "desc": "Sept fois championne du monde de para natation adaptée, Marie Graftiaux rêve de disputer les Jeux paralympiques dans une catégorie adaptée à la trisomie. Pour y parvenir, elle a écrit un livre, \"Plonge, nage et vis\", et…",
+     "link": "https://www.franceinfo.fr/jeux-paralympiques/elle-lutte-pour-faire-entrer-la-trisomie-aux-jeux-paralympiques-et-en-appelle-a-leon-marchand_8287100.html#xtor=RSS-3-%5Bsports%5D",
      "source": "franceinfo",
-     "date": "2026-11-17T05:00:02+00:00"
+     "date": "2026-11-18T07:00:03+00:00"
     },
     {
-     "title": "La Réunionnaise Johanne Defay devient vice-championne du monde de surf",
-     "desc": "C'est lors des championnats du monde de surf à Punta Rocas au Pérou que l'athlète, déjà médaillée de bronze aux Jeux de Paris 2024, a décroché dimanche la médaille d'argent.",
-     "link": "https://www.franceinfo.fr/sports/surf/la-reunionnaise-johanne-defay-devient-vice-championne-du-monde-de-surf_8285201.html#xtor=RSS-3-%5Bsports%5D",
+     "title": "Coluche, Emmanuel Macron, Teddy Riner… Ce que ces candidatures \"hors système\", plus ou moins réussies, disent de l'élection présidentielle",
+     "desc": "La candidature surprise du judoka Teddy Riner, lundi 9 novembre, n'est pas inédite dans l'histoire de la Ve République. Plusieurs candidats se présentant comme \"hors système\" ont ainsi tenté leur chance, avec plus ou…",
+     "link": "https://www.franceinfo.fr/elections/coluche-emmanuel-macron-teddy-riner-ce-que-ces-candidatures-hors-systeme-plus-ou-moins-reussies-disent-de-l-election-presidentielle_8286806.html#xtor=RSS-3-%5Bsports%5D",
      "source": "franceinfo",
-     "date": "2026-11-16T17:04:12+00:00"
+     "date": "2026-11-18T06:23:54+00:00"
     },
     {
-     "title": "Philippe Diallo, patron de la Fédération française de football, candidat à la présidence de la Fifa",
-     "desc": "C'est l'UEFA, l'instance européenne, qui a annoncé lundi la candidature du patron de la Fédération française.",
-     "link": "https://www.franceinfo.fr/sports/foot/philippe-diallo-patron-de-la-federation-francaise-de-football-candidat-a-la-presidence-de-la-fifa_8285006.html#xtor=RSS-3-%5Bsports%5D",
+     "title": "Philippe Diallo, Ramon Vega, Kozo Tashima… Qui sont les candidats qui défient Gianni Infantino pour prendre la tête de la Fifa ?",
+     "desc": "Si Gianni Infantino et Philippe Diallo sont certains de pouvoir réunir les cinq parrainages de fédérations nécessaires pour pouvoir concourir, d'autres challengers, au profil inattendu, espèrent tenter leur chance.",
+     "link": "https://www.franceinfo.fr/sports/foot/giovanni-infantino/philippe-diallo-ramon-vega-kozo-tashima-qui-sont-les-candidats-qui-defient-gianni-infantino-pour-prendre-la-tete-de-la-fifa_8286605.html#xtor=RSS-3-%5Bsports%5D",
      "source": "franceinfo",
-     "date": "2026-11-16T15:49:42+00:00"
+     "date": "2026-11-18T04:48:46+00:00"
     }
    ]
   }
