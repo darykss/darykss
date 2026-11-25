@@ -1,93 +1,93 @@
 {
- "generatedAt": "2026-11-24T13:40:31.124322+00:00",
+ "generatedAt": "2026-11-25T12:51:32.159834+00:00",
  "sections": [
   {
    "id": "une",
    "title": "À la une",
    "items": [
     {
-     "title": "Nicolas Sarkozy, Carla Bruni et Mimi Marchand renvoyés devant le tribunal dans l’affaire de la fausse rétractation de l’homme d’affaires Ziad Takieddine",
-     "desc": "L’ancien chef de l’Etat comparaîtra fin 2027 devant les juges pour « participation à association de malfaiteurs en vue de commettre une escroquerie en bande organisée » et « recel de subornation de témoin ». Les juges…",
-     "link": "https://www.lemonde.fr/societe/article/2026/11/24/nicolas-sarkozy-carla-bruni-et-mimi-marchand-renvoyes-devant-le-tribunal-dans-l-affaire-de-la-fausse-retractation-de-l-homme-d-affaires-ziad-takieddine_6814770_3224.html",
+     "title": "EN DIRECT, guerre en Ukraine : le Kremlin refuse de commenter le bilan estimé de 500 000 soldats russes tués en Ukraine",
+     "desc": "« Le seul à pouvoir officiellement rendre publics des données sur les pertes est le ministère de la défense de la Fédération de Russie », a déclaré son porte-parole, Dmitri Peskov, lors de son briefing quotidien. « Je…",
+     "link": "https://www.lemonde.fr/international/live/2026/11/25/en-direct-guerre-en-ukraine-le-kremlin-refuse-de-commenter-le-bilan-estime-de-500-000-soldats-russes-tues-en-ukraine_6814183_3210.html",
      "source": "Le Monde",
-     "date": "2026-11-24T13:26:18+00:00"
+     "date": "2026-11-25T12:48:09+00:00"
     },
     {
-     "title": "A Gaza, le responsable de la sécurité intérieure du Hamas tué par une frappe israélienne",
-     "desc": "L'armée et les services du renseignement intérieur israéliens avaient annoncé peu avant avoir \"frappé un terroriste de haut rang\" du mouvement, sans préciser son identité.",
-     "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/a-gaza-le-responsable-de-la-securite-interieure-du-hamas-tue-par-une-frappe-israelienne_8297706.html#xtor=RSS-3-[lestitres]",
-     "source": "franceinfo",
-     "date": "2026-11-24T13:05:38+00:00"
-    },
-    {
-     "title": "Une enquête ouverte après un signalement pour détournement de fonds publics à l'agglomération du Havre présidée par Edouard Philippe",
-     "desc": "\"Une plainte a été adressée à mes services via le Parquet national financier initialement saisi, j'ai transmis en enquête au commissariat du Havre\", a expliqué la procureure du Havre.",
-     "link": "https://www.franceinfo.fr/politique/edouard-philippe/une-enquete-ouverte-apres-un-signalement-pour-detournement-de-fonds-publics-a-l-agglomeration-du-havre-presidee-par-edouard-philippe_8297676.html#xtor=RSS-3-[lestitres]",
-     "source": "franceinfo",
-     "date": "2026-11-24T13:03:17+00:00"
-    },
-    {
-     "title": "Nicolas Sarkozy et Carla Bruni renvoyés en procès dans l'affaire de la fausse rétractation de Ziad Takieddine, notamment pour association de malfaiteurs",
-     "desc": "L'ancien président et son épouse sont renvoyés pour association de malfaiteurs en vue de préparer une escroquerie en bande organisée ainsi que recel de subornation de témoin.",
-     "link": "https://www.franceinfo.fr/societe/justice/nicolas-sarkozy-et-carla-bruni-sont-renvoyes-en-proces-dans-l-affaire-de-la-fausse-retractation-de-ziad-takieddine-notamment-pour-association-de-malfaiteurs_8297655.html#xtor=RSS-3-[lestitres]",
-     "source": "franceinfo",
-     "date": "2026-11-24T12:49:57+00:00"
-    },
-    {
-     "title": "\"Les ménages ont été amenés à puiser dans leur épargne\" : on vous explique pourquoi le livret A est laissé pour compte",
-     "desc": "Baisse du pouvoir d'achat, concurrence de l'assurance-vie, inflation... Entre janvier et octobre, les Français ont retiré 9,5 milliards d'euros de plus sur leurs livrets A qu'ils n'en ont déposé.",
-     "link": "https://www.franceinfo.fr/economie/votre-argent/livret-a/les-menages-ont-ete-amenes-a-puiser-dans-leur-epargne-on-vous-explique-pourquoi-le-livret-a-est-laisse-pour-compte_8297343.html#xtor=RSS-3-[lestitres]",
-     "source": "franceinfo",
-     "date": "2026-11-24T12:21:15+00:00"
-    },
-    {
-     "title": "Stocks stratégiques de terres rares et métaux : \"L'objectif n'est pas de se couper de la Chine, mais d'augmenter notre résilience\", selon un spécialiste",
-     "desc": "Lundi, l'Élysée a confirmé que la France se doterait de \"stocks stratégiques\" de \"terres rares et certains métaux prioritaires\" inspirés des réserves qui existent pour le pétrole, afin de pallier les dépendances des…",
-     "link": "https://www.franceinfo.fr/economie/industrie/stocks-strategiques-de-terres-rares-et-metaux-l-objectif-n-est-pas-de-se-couper-de-la-chine-mais-d-augmenter-notre-resilience-selon-un-specialiste_8297661.html#xtor=RSS-3-[lestitres]",
-     "source": "franceinfo",
-     "date": "2026-11-24T12:20:45+00:00"
-    },
-    {
-     "title": "Nvidia : Donald Trump aurait gagné jusqu’à 15 millions de dollars grâce à ses actions après le retour de Jensen Huang, selon le « Financial Times »",
-     "desc": "Le quotidien britannique s’appuie sur les dernières déclarations financières du président américain, qui font état d’une détention possible de jusqu’à 370 000 actions Nvidia au 30 septembre.",
-     "link": "https://www.lemonde.fr/international/article/2026/11/24/nvidia-donald-trump-aurait-gagne-jusqu-a-15-millions-de-dollars-grace-a-ses-actions-apres-le-retour-de-jensen-huang-selon-le-financial-times_6814756_3210.html",
+     "title": "David Lisnard, candidat à l’élection présidentielle, réélu à la tête de l’Association des maires de France",
+     "desc": "Le maire de Cannes (Alpes-Maritimes) a annoncé sa victoire sur « X », où il s’est réjoui d’« un magnifique résultat qui nous permettra de toujours mieux faire entendre la voix des libertés locales, des réalités du…",
+     "link": "https://www.lemonde.fr/politique/article/2026/11/25/david-lisnard-candidat-a-l-election-presidentielle-reelu-a-la-tete-de-l-association-des-maires-de-france_6815094_823448.html",
      "source": "Le Monde",
-     "date": "2026-11-24T11:56:00+00:00"
+     "date": "2026-11-25T12:44:02+00:00"
     },
     {
-     "title": "Police municipale, incendie, fiscalité… Quinze maires répondent à vos questions depuis le congrès de l'Association des maires de France",
-     "desc": "franceinfo est en direct depuis le congrès de l’Association des maires de France le 24 novembre de midi à 15 h pour trois heures d’émission en direct sur YouTube, TikTok et Twitch avec vos questions dans le tchat.",
-     "link": "https://www.franceinfo.fr/politique/direct-police-municipale-incendie-fiscalite-quinze-maires-repondent-a-vos-questions-depuis-le-congres-de-l-association-des-maires-de-france_8295998.html#xtor=RSS-3-[lestitres]",
+     "title": "David Lisnard, candidat à la présidentielle 2027, réélu avec 72% des voix à la tête de l'Association des maires de France",
+     "desc": "Le maire Nouvelle Energie de Cannes (Alpes-Maritimes) affrontait Philippe Laurent, élu UDI de Sceaux (Hauts-de-Seine). Il est reconduit pour un troisième mandat.",
+     "link": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-lance-dans-la-course-a-l-elysee-david-lisnard-fixe-dans-la-journee-sur-sa-reelection-a-la-tete-de-l-association-des-maires-de-france_8298708.html#xtor=RSS-3-[lestitres]",
      "source": "franceinfo",
-     "date": "2026-11-24T11:01:44+00:00"
+     "date": "2026-11-25T12:42:17+00:00"
     },
     {
-     "title": "Le congrès des maires de France s’ouvre sur fond de course à la présidentielle et de protestations autour de la double candidature de David Lisnard",
-     "desc": "Pour les prétendants en quête des 500 parrainages nécessaires à leur candidature, difficile en effet de faire l’impasse sur le plus grand rassemblement d’élus locaux d’Europe.",
-     "link": "https://www.lemonde.fr/politique/article/2026/11/24/le-congres-des-maires-de-france-s-ouvre-sur-fond-de-course-a-la-presidentielle-et-de-protestations-autour-de-la-double-candidature-de-david-lisnard_6814718_823448.html",
-     "source": "Le Monde",
-     "date": "2026-11-24T07:09:47+00:00"
+     "title": "Le trafic des trains Eurostar entre Londres et Paris fortement perturbé dans les deux sens en raison d'une \"grève imprévue\"",
+     "desc": "Les organisations syndicales dénoncent notamment une dégradation des conditions de travail et une stagnation des salaires.",
+     "link": "https://www.franceinfo.fr/economie/transports/le-trafic-des-trains-eurostar-entre-londres-et-paris-fortement-perturbe-en-raison-d-une-greve-imprevue_8299053.html#xtor=RSS-3-[lestitres]",
+     "source": "franceinfo",
+     "date": "2026-11-25T12:05:46+00:00"
     },
     {
-     "title": "Election présidentielle américaine de 2028 : chez les démocrates, un casting de candidats très riche et une primaire plus ouverte que jamais",
-     "desc": "Les midterms à peine passées, les démocrates se tournent déjà vers la présidentielle. Tous les candidats potentiels étaient réunis pour deux jours de conférence à Denver, la capitale du Colorado, les 12 et 13 novembre.…",
-     "link": "https://www.lemonde.fr/international/article/2026/11/24/election-presidentielle-americaine-de-2028-chez-les-democrates-un-casting-tres-riche-pour-un-premier-role_6814712_3210.html",
-     "source": "Le Monde",
-     "date": "2026-11-24T05:30:05+00:00"
+     "title": "Patrick Bruel visé par une nouvelle plainte pour un viol remontant à 2006, en marge d'un concert des Enfoirés",
+     "desc": "La plaignante avait 27 ans au moment des faits qu'elle dénonce auprès de Mediapart. Le chanteur de 67 ans n'a pas souhaité réagir à ses accusations, précise le média en ligne.",
+     "link": "https://www.franceinfo.fr/culture/musique/patrick-bruel/une-nouvelle-plainte-pour-viol-deposee-contre-patrick-bruel-pour-des-faits-remontant-a-2006-en-marge-d-un-concert-des-enfoires_8299338.html#xtor=RSS-3-[lestitres]",
+     "source": "franceinfo",
+     "date": "2026-11-25T11:52:19+00:00"
     },
     {
-     "title": "Larry Diamond, politiste américain : « En plusieurs endroits du monde, nous assistons à un rejet croissant des projets autoritaires »",
-     "desc": "Aux Etats-Unis, au Brésil, en Serbie et dans plusieurs autres pays, les candidats populistes ou illibéraux ont été défaits lors de récents scrutins. Le spécialiste de l’étude de la démocratie à l’échelle internationale…",
-     "link": "https://www.lemonde.fr/idees/article/2026/11/24/larry-diamond-politiste-americain-en-plusieurs-endroits-du-monde-nous-assistons-a-un-rejet-croissant-des-projets-autoritaires_6814707_3232.html",
+     "title": "La présence d’un procureur au siège du RN suscite l’émoi au sein de la magistrature",
+     "desc": "Lors d’une perquisition de l’IGPN, Christian de Rocquigny, procureur adjoint de Paris, a été aperçu dans les locaux du Rassemblement national. S’il évoque un rendez-vous « amical », qu’aucune règle ne vient interdire,…",
+     "link": "https://www.lemonde.fr/societe/article/2026/11/25/la-presence-d-un-procureur-au-siege-du-rn-suscite-l-emoi-au-sein-de-la-magistrature_6815091_3224.html",
      "source": "Le Monde",
-     "date": "2026-11-24T05:00:20+00:00"
+     "date": "2026-11-25T11:39:06+00:00"
     },
     {
-     "title": "« J’ai perdu quasiment la moitié de mes étudiants de première année » : près de deux mois après le début des mobilisations, le risque de décrochage en licence",
-     "desc": "Dans les facultés touchées par les blocages, la désorganisation des cours et le passage au distanciel désorientent les étudiants les plus jeunes et inquiètent leurs enseignants.",
-     "link": "https://www.lemonde.fr/campus/article/2026/11/24/j-ai-perdu-quasiment-la-moitie-de-mes-etudiants-de-premiere-annee-pres-de-deux-mois-apres-le-debut-des-mobilisations-le-risque-de-decrochage-en-licence_6814704_4401467.html",
+     "title": "La Ligue des droits de l'homme saisit la justice contre la suspension des aides aux auteurs de dégradations dans les lycées, voulue par Valérie Pécresse",
+     "desc": "Selon le recours formé par l'association, le conseil régional dirigé par l'élue LR n'est pas compétent pour prononcer de telles sanctions.",
+     "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-ldh-saisit-la-justice-contre-la-suspension-des-aides-aux-auteurs-de-degradations-dans-les-lycees-voulue-par-valerie-pecresse_8299473.html#xtor=RSS-3-[lestitres]",
+     "source": "franceinfo",
+     "date": "2026-11-25T11:38:57+00:00"
+    },
+    {
+     "title": "Enquête sur des soupçons de fuites vers le RN : Hugues Moutouh a été officiellement démis de ses fonctions et remplacé par le préfet Pierre Ory",
+     "desc": "Le haut fonctionnaire avait demandé à être relevé de ses fonctions après l'ouverture d'une enquête sur des soupçons de fuites d'éléments judiciaires concernant le RN venant du ministère de l'Intérieur, à l'époque où il…",
+     "link": "https://www.franceinfo.fr/politique/front-national/enquete-sur-des-soupcons-de-fuites-vers-le-rn-hugues-moutouh-a-ete-officiellement-demis-de-ses-fonctions-remplace-par-le-prefet-pierre-ory_8299428.html#xtor=RSS-3-[lestitres]",
+     "source": "franceinfo",
+     "date": "2026-11-25T11:36:04+00:00"
+    },
+    {
+     "title": "Routes coupées, cours d'eau qui débordent : le point sur les perturbations liées à l'épisode méditerranéen dans le Var",
+     "desc": "Un nouvel épisode méditerranéen avec de fortes pluies frappe depuis ce mercredi 25 novembre minuit le département du Var et dans une moindre mesure pour l'instant, les Alpes-Maritimes. Ces deux départements sont en…",
+     "link": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/saint-tropez/routes-coupees-cours-d-eau-qui-debordent-etat-des-lieux-de-l-episode-mediterraneen-dans-le-var-3455510.html#xtor=RSS-3-[lestitres]",
+     "source": "franceinfo",
+     "date": "2026-11-25T10:33:55+00:00"
+    },
+    {
+     "title": "« Je suis avant tout un protecteur de l’identité hindoue » : en Inde, les jeunes extrémistes baignent dans les thèses conspirationnistes",
+     "desc": "« Inde, la jeunesse fracturée » (3/4). Kartik Hindu, 25 ans, issu de la classe moyenne aisée, est persuadé que la minorité musulmane, estimée à 200 millions d’habitants, représente une menace démographique pour le…",
+     "link": "https://www.lemonde.fr/international/article/2026/11/25/je-suis-avant-tout-un-protecteur-de-l-identite-hindoue-en-inde-les-jeunes-extremistes-baignent-dans-les-theses-conspirationnistes_6815040_3210.html",
      "source": "Le Monde",
-     "date": "2026-11-24T05:00:15+00:00"
+     "date": "2026-11-25T05:00:07+00:00"
+    },
+    {
+     "title": "Présidentielle 2027 : au RN, la certitude de la victoire enivre les élus et inquiète Marine Le Pen",
+     "desc": "Les adversaires du Rassemblement national soulignent l’arrogance des députés d’extrême droite dans les médias, les réseaux sociaux et à l’Assemblée nationale. De récents faux pas de communication attestent d’un état…",
+     "link": "https://www.lemonde.fr/politique/article/2026/11/25/presidentielle-2027-au-rn-la-certitude-de-la-victoire-enivre-les-elus-et-inquiete-marine-le-pen_6815034_823448.html",
+     "source": "Le Monde",
+     "date": "2026-11-25T04:15:03+00:00"
+    },
+    {
+     "title": "Avec « Un bon petit soldat », Stéphane Brizé signe son film le plus féroce sur le monde de l’entreprise",
+     "desc": "Le réalisateur observe avec mordant les mécanismes qui régissent une compagnie d’assurances, analysant au passage une langue, celle qui est sécrétée par le capital.",
+     "link": "https://www.lemonde.fr/culture/article/2026/11/24/avec-un-bon-petit-soldat-stephane-brize-signe-son-film-le-plus-feroce-sur-le-monde-de-l-entreprise_6814830_3246.html",
+     "source": "Le Monde",
+     "date": "2026-11-24T17:30:01+00:00"
     }
    ]
   },
@@ -96,81 +96,88 @@
    "title": "Économie",
    "items": [
     {
-     "title": "Seuls six étudiants sur dix ont reçu une proposition de master en 2026",
-     "desc": "Le nombre d'étudiants ayant reçu une proposition d'admission a chuté de sept points en un an.",
-     "link": "https://www.franceinfo.fr/societe/education/seuls-six-etudiants-sur-dix-ont-recu-une-proposition-de-master-en-2026_8297694.html#xtor=RSS-3-%5Beconomie%5D",
+     "title": "La Cour des comptes alerte sur des risques de fraude et d'abus dans les formations en apprentissage",
+     "desc": "Entre 10% et 20% du montant global de l'argent public dépensé pour ces formations serait concerné par ces risques, qui portent entre autres sur un nombre excessif d'apprentis par maître d'apprentissage ou des contrats…",
+     "link": "https://www.franceinfo.fr/economie/emploi/la-cour-des-comptes-epingle-des-fraudes-et-des-abus-dans-les-formations-en-apprentissage_8299608.html#xtor=RSS-3-%5Beconomie%5D",
      "source": "franceinfo",
-     "date": "2026-11-24T13:24:02+00:00"
+     "date": "2026-11-25T12:37:03+00:00"
     },
     {
-     "title": "Pulmoll, Valda… La fin des ventes de pastilles et autres confiseries en pharmacie surprend et inquiète la filière",
-     "desc": "C'est la fin d'une époque dans nos pharmacies : les ventes de confiseries y sont désormais interdites par un arrêté passé inaperçu, publié il y a quelques jours. Cela concerne notamment des pastilles pour la gorge que…",
-     "link": "https://www.franceinfo.fr/economie/pulmoll-valda-la-fin-des-ventes-de-pastilles-et-autres-confiseries-en-pharmacie-surprend-et-inquiete-la-filiere_8297733.html#xtor=RSS-3-%5Beconomie%5D",
-     "source": "franceinfo",
-     "date": "2026-11-24T13:19:26+00:00"
-    },
-    {
-     "title": "Assurance-vie : que penser des fonds euros nouvelle génération ?",
-     "desc": "Trois familles de produits, aux fonctionnements bien spécifiques, ciblant davantage de rendement, sont apparues, moyennant une plus grande sophistication de leur moteur de performance.",
-     "link": "https://www.lemonde.fr/argent/article/2026/11/24/assurance-vie-que-penser-des-fonds-euros-nouvelle-generation_6814767_1657007.html",
+     "title": "L’Union européenne veut créer un fonds souverain de 50 milliards d’euros pour investir dans l’informatique quantique et l’intelligence artificielle",
+     "desc": "L’Europe dispose déjà d’une avance indéniable sur le terrain de la recherche de l’informatique quantique, mais peine à la traduire en activités commerciales.",
+     "link": "https://www.lemonde.fr/international/article/2026/11/25/l-union-europeenne-veut-creer-un-fonds-souverain-de-50-milliards-d-euros-pour-investir-dans-l-informatique-quantique-et-l-intelligence-artificielle_6815093_3210.html",
      "source": "Le Monde",
-     "date": "2026-11-24T13:00:11+00:00"
+     "date": "2026-11-25T12:29:26+00:00"
     },
     {
-     "title": "\"Les ménages ont été amenés à puiser dans leur épargne\" : on vous explique pourquoi le livret A est laissé pour compte",
-     "desc": "Baisse du pouvoir d'achat, concurrence de l'assurance-vie, inflation... Entre janvier et octobre, les Français ont retiré 9,5 milliards d'euros de plus sur leurs livrets A qu'ils n'en ont déposé.",
-     "link": "https://www.franceinfo.fr/economie/votre-argent/livret-a/les-menages-ont-ete-amenes-a-puiser-dans-leur-epargne-on-vous-explique-pourquoi-le-livret-a-est-laisse-pour-compte_8297343.html#xtor=RSS-3-%5Beconomie%5D",
+     "title": "Le trafic des trains Eurostar entre Londres et Paris fortement perturbé dans les deux sens en raison d'une \"grève imprévue\"",
+     "desc": "Les organisations syndicales dénoncent notamment une dégradation des conditions de travail et une stagnation des salaires.",
+     "link": "https://www.franceinfo.fr/economie/transports/le-trafic-des-trains-eurostar-entre-londres-et-paris-fortement-perturbe-en-raison-d-une-greve-imprevue_8299053.html#xtor=RSS-3-%5Beconomie%5D",
      "source": "franceinfo",
-     "date": "2026-11-24T12:21:15+00:00"
+     "date": "2026-11-25T12:05:46+00:00"
     },
     {
-     "title": "Stocks stratégiques de terres rares et métaux : \"L'objectif n'est pas de se couper de la Chine, mais d'augmenter notre résilience\", selon un spécialiste",
-     "desc": "Lundi, l'Élysée a confirmé que la France se doterait de \"stocks stratégiques\" de \"terres rares et certains métaux prioritaires\" inspirés des réserves qui existent pour le pétrole, afin de pallier les dépendances des…",
-     "link": "https://www.franceinfo.fr/economie/industrie/stocks-strategiques-de-terres-rares-et-metaux-l-objectif-n-est-pas-de-se-couper-de-la-chine-mais-d-augmenter-notre-resilience-selon-un-specialiste_8297661.html#xtor=RSS-3-%5Beconomie%5D",
+     "title": "Les aides à l’apprentissage font l’objet de nombreux abus et fraudes, selon la Cour des comptes",
+     "desc": "Les magistrats de la rue Cambon soulignent, dans un rapport publié mercredi 25 novembre, les nombreuses défaillances autour du système, alors que le budget dévolu à l’apprentissage a bondi.",
+     "link": "https://www.lemonde.fr/politique/article/2026/11/25/les-aides-a-l-apprentissage-font-l-objet-de-nombreux-abus-et-fraudes-selon-la-cour-des-comptes_6815092_823448.html",
+     "source": "Le Monde",
+     "date": "2026-11-25T12:05:37+00:00"
+    },
+    {
+     "title": "Projet de loi sur le logement : le gouvernement \"ne portera pas la suppression\" de l'interdiction de louer des passoires thermiques",
+     "desc": "Vincent Jeanbrun, ministre de la Ville et du Logement, estime que la mesure introduite par le RN avant l'adoption du texte en première lecture, mardi, n'est \"pas acceptable\".",
+     "link": "https://www.franceinfo.fr/politique/projet-de-loi-sur-le-logement-le-gouvernement-ne-portera-pas-la-suppression-de-l-interdiction-de-louer-des-passoires-thermiques_8299518.html#xtor=RSS-3-%5Beconomie%5D",
      "source": "franceinfo",
-     "date": "2026-11-24T12:20:45+00:00"
+     "date": "2026-11-25T11:41:42+00:00"
     },
     {
-     "title": "Sanofi, en s’offrant l’américain Insmed, se lance dans la plus importante acquisition de son histoire depuis 2004",
-     "desc": "Le groupe pharmaceutique français met la main, pour 37,6 milliards d’euros, sur ce spécialiste du traitement des maladies respiratoires. La biotech dispose déjà d’un médicament réalisant plus d’1 milliard de dollars de…",
-     "link": "https://www.lemonde.fr/economie/article/2026/11/24/sanofi-pret-a-debourser-37-6-milliards-d-euros-pour-l-americain-insmed-un-specialiste-du-traitement-des-maladies-respiratoires_6814758_3234.html",
+     "title": "Malgré des financements ténus, le programme « Savoir rouler à vélo » veut mettre les enfants en selle",
+     "desc": "Certaines collectivités et associations se battent pour maintenir l’enseignement du vélo aux enfants, en dépit des coupes budgétaires de l’Etat. A Paris, 3 300 vélos ont été mis à disposition des écoles, à l’exemple de…",
+     "link": "https://www.lemonde.fr/economie/article/2026/11/25/malgre-des-financements-tenus-le-programme-savoir-rouler-a-velo-veut-mettre-les-enfants-en-selle_6815084_3234.html",
      "source": "Le Monde",
-     "date": "2026-11-24T12:08:33+00:00"
+     "date": "2026-11-25T11:00:03+00:00"
     },
     {
-     "title": "Prisé par les Français, le billet de 5 euros est pourtant une \"denrée rare\", selon la Banque de France",
-     "desc": "Les billets de 5 euros \"représentent seulement 2,3% du nombre de billets commandés pour les usages du quotidien\" par \"les banques et les acteurs du commerce\" auprès de la filière fiduciaire. La part des billets de 10,…",
-     "link": "https://www.franceinfo.fr/economie/prise-par-les-francais-le-billet-de-cinq-euros-est-pourtant-une-denree-rare-selon-la-banque-de-france_8297589.html#xtor=RSS-3-%5Beconomie%5D",
+     "title": "Les dangereuses complaisances de Donald Trump envers Nvidia",
+     "desc": "En faisant de la prospérité de Wall Street un impératif supérieur au respect de la loi, le président américain encourage les dérives du secteur de la tech, dont l’économie américaine dépend déjà fortement.",
+     "link": "https://www.lemonde.fr/idees/article/2026/11/25/les-dangereuses-complaisances-de-donald-trump-envers-nvidia_6815082_3232.html",
+     "source": "Le Monde",
+     "date": "2026-11-25T10:30:08+00:00"
+    },
+    {
+     "title": "franceinfo au Congrès des maires : les équations difficiles de la fiscalité locale",
+     "desc": "En direct depuis le Congrès des maires, quinze élus débattent sur franceinfo d'un thème qui agite leur quotidien d'édiles.",
+     "link": "https://www.franceinfo.fr/economie/impots/reforme-fiscale/franceinfo-au-congres-des-maires-les-equations-difficiles-de-la-fiscalite-locale_8299326.html#xtor=RSS-3-%5Beconomie%5D",
      "source": "franceinfo",
-     "date": "2026-11-24T11:54:53+00:00"
+     "date": "2026-11-25T10:25:00+00:00"
     },
     {
-     "title": "Tiktok a tué nos hobbies",
-     "desc": "Le coloriage pour adultes fait son grand retour en librairie, porté par TikTok. Mais ce loisir censé nous éloigner des écrans est devenu une affaire de matériel, de mise en scène et de gros sous.",
-     "link": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/tiktok-a-tue-nos-hobbies_8275376.html#xtor=RSS-3-%5Beconomie%5D",
+     "title": "Au Paris Nautic Show, l’industrie espère confirmer la reprise observée depuis septembre",
+     "desc": "Le salon nautique se tient au Parc des expositions de Paris-Le Bourget, en Seine-Saint-Denis, du 25 au 29 novembre.",
+     "link": "https://www.lemonde.fr/economie/article/2026/11/25/au-paris-nautic-show-l-industrie-espere-confirmer-la-reprise-observee-depuis-septembre_6815081_3234.html",
+     "source": "Le Monde",
+     "date": "2026-11-25T10:20:46+00:00"
+    },
+    {
+     "title": "La Malaisie poursuit Google pour ne pas avoir retiré des contenus « nocifs » sur YouTube",
+     "desc": "Les poursuites surviennent trois semaines après que le géant américain a annoncé son intention d’investir 15 milliards de dollars en Malaisie. Le pays avait précédemment interpellé d’autres plateformes majeures de…",
+     "link": "https://www.lemonde.fr/economie/article/2026/11/25/la-malaisie-poursuit-google-pour-ne-pas-avoir-retire-des-contenus-nocifs-sur-youtube_6815080_3234.html",
+     "source": "Le Monde",
+     "date": "2026-11-25T10:10:54+00:00"
+    },
+    {
+     "title": "\"On espère que ça attirera de nouveau du monde\" : le Black Friday peut-il redonner des couleurs aux commerces avant Noël ?",
+     "desc": "Le coup d'envoi du Black Friday sera donné vendredi 27 novembre. Un jour de promotions massives avant Noël, dans un contexte d'économie en berne. Le concept, venu des États-Unis, peut-il aider à relancer la consommation…",
+     "link": "https://www.franceinfo.fr/economie/commerce/on-espere-que-ca-attirera-de-nouveau-du-monde-le-black-friday-peut-il-redonner-des-couleurs-aux-commerces-avant-noel_8299047.html#xtor=RSS-3-%5Beconomie%5D",
      "source": "franceinfo",
-     "date": "2026-11-24T10:55:08+00:00"
+     "date": "2026-11-25T10:09:15+00:00"
     },
     {
-     "title": "Arnaque aux sentiments : la banque doit-elle rembourser la victime ?",
-     "desc": "Une veuve ayant versé 23 800 euros à un interlocuteur virtuel reproche à son banquier un manque de vigilance face à une anomalie apparente.",
-     "link": "https://www.lemonde.fr/argent/article/2026/11/24/arnaque-aux-sentiments-la-banque-doit-elle-rembourser-la-victime_6814746_1657007.html",
-     "source": "Le Monde",
-     "date": "2026-11-24T10:30:01+00:00"
-    },
-    {
-     "title": "L’UE limite les importations de voitures hybrides en provenance de Chine, comme convenu le mois dernier avec Pékin",
-     "desc": "La Chine a accepté, en octobre, de plafonner à 350 000 par an le nombre de véhicules qu’elle peut exporter vers l’UE, qui accusait ses industriels d’inonder le marché européen avec des modèles bon marché.",
-     "link": "https://www.lemonde.fr/economie/article/2026/11/24/l-ue-limite-les-importations-de-voitures-hybrides-en-provenance-de-chine-comme-convenu-le-mois-dernier-avec-pekin_6814744_3234.html",
-     "source": "Le Monde",
-     "date": "2026-11-24T10:26:41+00:00"
-    },
-    {
-     "title": "Jensen Huang de retour à la tête de Nvidia, sous l’influence de Donald Trump",
-     "desc": "Le PDG de Nvidia a été réintégré, lundi, par le conseil d’administration du géant des semi-conducteurs. Son retour a provoqué un bond de 31 % de l’entreprise en Bourse. Plusieurs parlementaires, démocrates et…",
-     "link": "https://www.lemonde.fr/international/video/2026/11/24/jensen-huang-de-retour-a-la-tete-de-nvidia-sous-l-influence-de-donald-trump_6814742_3210.html",
-     "source": "Le Monde",
-     "date": "2026-11-24T10:22:55+00:00"
+     "title": "Les informés du matin du mercredi 25 novembre 2026",
+     "desc": "Les informés débattent de l'actualité autour d'Agathe Lambret et Renaud Dély.",
+     "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mercredi-25-novembre-2026_8277104.html#xtor=RSS-3-%5Beconomie%5D",
+     "source": "franceinfo",
+     "date": "2026-11-25T09:57:08+00:00"
     }
    ]
   },
@@ -179,81 +186,67 @@
    "title": "Monde",
    "items": [
     {
-     "title": "Malgré un nombre de malades du sida en baisse, l'ONU alerte sur les difficultés financières pour la recherche et la prévention",
-     "desc": "Selon l'Onusida, les programmes de lutte contre le VIH ont subi une diminution de 18% de leurs financements internationaux en 2025. L'essentiel des coupes budgétaires concerne l'Afrique, la région du monde la plus…",
-     "link": "https://www.franceinfo.fr/sante/sida/malgre-un-nombre-de-malades-du-sida-en-baisse-l-onu-alerte-sur-les-difficultes-financieres-pour-la-recherche-et-la-prevention_8297634.html#xtor=RSS-3-%5Bmonde%5D",
+     "title": "L'ONU alerte sur le risque de nouveaux \"crimes atroces\" d'Israël contre les Palestiniens à Gaza et en Cisjordanie",
+     "desc": "Le Haut-Commissariat des Nations unies aux droits de l'homme alerte sur \"le caractère de plus en plus généralisé et systématique des violations commises\" dans les deux territoires palestiniens.",
+     "link": "https://www.franceinfo.fr/monde/proche-orient/guerre/l-onu-alerte-sur-le-risque-de-nouveaux-crimes-atroces-d-israel-contre-les-palestiniens-a-gaza-et-en-cisjordanie_8299557.html#xtor=RSS-3-%5Bmonde%5D",
      "source": "franceinfo",
-     "date": "2026-11-24T13:21:28+00:00"
+     "date": "2026-11-25T12:08:23+00:00"
     },
     {
-     "title": "A Gaza, le responsable de la sécurité intérieure du Hamas tué par une frappe israélienne",
-     "desc": "L'armée et les services du renseignement intérieur israéliens avaient annoncé peu avant avoir \"frappé un terroriste de haut rang\" du mouvement, sans préciser son identité.",
-     "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/a-gaza-le-responsable-de-la-securite-interieure-du-hamas-tue-par-une-frappe-israelienne_8297706.html#xtor=RSS-3-%5Bmonde%5D",
+     "title": "Pete Edochie, l'une des légendes du cinéma nigérian, est mort à 79 ans",
+     "desc": "Dans les années 1980, sa carrière à Nollywood avait démarré avec l'adaptation télévisée du chef-d'œuvre de Chinua Achebe, \"Tout s'effondre\".",
+     "link": "https://www.franceinfo.fr/culture/cinema/pete-edochie-l-une-des-legendes-du-cinema-nigerian-est-mort-a-79-ans_8299065.html#xtor=RSS-3-%5Bmonde%5D",
      "source": "franceinfo",
-     "date": "2026-11-24T13:05:38+00:00"
+     "date": "2026-11-25T11:43:08+00:00"
     },
     {
-     "title": "Chine : à Shanghai, le chef du Parti communiste visé par une enquête pour des soupçons de corruption",
-     "desc": "Egalement membre du bureau politique du Parti communiste chinois, Chen Jining est le quatrième responsable de l’instance dirigeante à faire l’objet d’une enquête depuis le début de son mandat actuel, en 2022.",
-     "link": "https://www.lemonde.fr/international/article/2026/11/24/chine-a-shanghai-le-chef-du-parti-communiste-vise-par-une-enquete-pour-des-soupcons-de-corruption_6814768_3210.html",
+     "title": "L’indépendantiste catalan Carles Puigdemont rentrera en Espagne le 12 décembre",
+     "desc": "Après que le Tribunal suprême espagnol l’a définitivement blanchi, Carles Puigdemont annonce vouloir rentrer en Espagne environ deux semaines après les élections législatives.",
+     "link": "https://www.lemonde.fr/international/article/2026/11/25/l-independantiste-catalan-carles-puigdemont-rentrera-en-espagne-le-12-decembre_6815086_3210.html",
      "source": "Le Monde",
-     "date": "2026-11-24T13:02:08+00:00"
+     "date": "2026-11-25T11:21:58+00:00"
     },
     {
-     "title": "Un ferry flambant neuf heurte violemment les rochers du lac Victoria",
-     "desc": "Un ferry tanzanien a violemment heurté le rocher de Bismarck sur le lac Victoria le 18 novembre 2026. Le MV New Mwanza, 3500 tonnes et long de 92m aurait cherche à éviter un autre navire.",
-     "link": "https://www.franceinfo.fr/faits-divers/un-ferry-flambant-neuf-heurte-violemment-les-rochers-du-lac-victoria_8297667.html#xtor=RSS-3-%5Bmonde%5D",
+     "title": "L'indépendantiste catalan Carles Puigdemont rentrera en Espagne le 12 décembre après neuf ans d'exil",
+     "desc": "Lundi, le Tribunal suprême espagnol a définitivement blanchi l'homme politique, qui était poursuivi par la justice depuis la tentative avortée de sécession de la Catalogne en 2017.",
+     "link": "https://www.franceinfo.fr/monde/espagne/l-independantiste-catalan-carles-puigdemont-rentrera-en-espagne-le-12decembre-apres-neuf-ans-d-exil_8299407.html#xtor=RSS-3-%5Bmonde%5D",
      "source": "franceinfo",
-     "date": "2026-11-24T13:00:02+00:00"
+     "date": "2026-11-25T10:55:15+00:00"
     },
     {
-     "title": "Gaza : le responsable de la sécurité intérieure du Hamas, Naeem Abou Nahal, tué dans un bombardement israélien",
-     "desc": "Mardi, sept personnes ont été tuées dans plusieurs bombardements israéliens sur l’enclave palestinienne, selon les bilans partagés par la défense civile, organisation de premiers secours opérant sous l’autorité du Hamas.",
-     "link": "https://www.lemonde.fr/international/article/2026/11/24/gaza-le-responsable-de-la-securite-interieure-du-hamas-naeem-abou-nahal-tue-dans-un-bombardement-israelien_6814764_3210.html",
+     "title": "La RDC impose un nouvel embargo sur les exportations de cobalt pour faire monter les cours",
+     "desc": "Dans un contexte de baisse des prix, le pays a de nouveau interdit l’exportation de cobalt, dont la transformation est presque entièrement contrôlée par la Chine. Un premier embargo, remplacé ensuite par des quotas,…",
+     "link": "https://www.lemonde.fr/afrique/article/2026/11/25/la-rdc-impose-un-nouvel-embargo-sur-les-exportations-de-cobalt-pour-faire-monter-les-cours_6815079_3212.html",
      "source": "Le Monde",
-     "date": "2026-11-24T12:52:10+00:00"
+     "date": "2026-11-25T10:00:09+00:00"
     },
     {
-     "title": "VIH/sida : la chute des financements internationaux fragilise la lutte contre l’épidémie, pointe l’Onusida",
-     "desc": "Si le nombre de morts liés au sida dans le monde est tombé à son niveau le plus bas depuis plus de deux décennies, les financements internationaux des programmes de lutte ont baissé de 18 % en 2025, alerte le programme…",
-     "link": "https://www.lemonde.fr/international/article/2026/11/24/vih-sida-la-chute-des-financements-internationaux-fragilise-la-lutte-contre-l-epidemie-pointe-l-onusida_6814760_3210.html",
+     "title": "La guerre en Ukraine à travers les lettres d’Olga et de Sasha : « Quand ma chorale a inscrit un auteur russe au répertoire, j’ai eu un haut-le-cœur »",
+     "desc": "Olga et Sasha Kurovska sont deux sœurs ukrainiennes. L’une vit à Paris, l’autre à Kiev. Alors qu’Olga s’emporte de voir les Européens continuer de mettre en avant la culture russe au détriment des artistes ukrainiens,…",
+     "link": "https://www.lemonde.fr/m-le-mag/article/2026/11/25/la-guerre-en-ukraine-a-travers-les-lettres-d-olga-et-de-sasha-quand-ma-chorale-a-inscrit-un-auteur-russe-au-repertoire-j-ai-eu-un-haut-le-c-ur_6815078_4500055.html",
      "source": "Le Monde",
-     "date": "2026-11-24T12:28:36+00:00"
+     "date": "2026-11-25T10:00:07+00:00"
     },
     {
-     "title": "Pesticides : le Parlement européen reporte à 2027 le vote sur une loi visant à assouplir leur réglementation",
-     "desc": "Les eurodéputés devaient voter en décembre sur ce paquet législatif baptisé Omnibus X, qui prévoit notamment des autorisations illimitées pour une partie des pesticides, en raison d’un embouteillage dans l’approbation…",
-     "link": "https://www.lemonde.fr/planete/article/2026/11/24/pesticides-le-parlement-europeen-reporte-a-2027-le-vote-sur-une-loi-visant-a-assouplir-leur-reglementation_6814759_3244.html",
-     "source": "Le Monde",
-     "date": "2026-11-24T12:22:13+00:00"
-    },
-    {
-     "title": "\"J'ai découvert que le démon rôdait\" : le journal du pape François publié par un ancien proche collaborateur révèle sa foi profonde, mais aussi ses travers et ses fragilités",
-     "desc": "Pendant plus de trente ans, le pape argentin a consigné ses états d'âme, ses inquiétudes et ses doutes dans un carnet. Un de ses très proches collaborateurs en publie des extraits choisis dans un livre.",
-     "link": "https://www.franceinfo.fr/culture/livres/j-ai-decouvert-que-le-demon-rodait-le-journal-du-pape-francois-revele-sa-foi-profonde-mais-aussi-ses-travers-et-ses-fragilites_8297319.html#xtor=RSS-3-%5Bmonde%5D",
+     "title": "L'architecte catalan Antoni Gaudí a sacrifié tout son héritage pour construire la Sagrada Familia",
+     "desc": "Père de la Sagrada Familia, l'architecte catalan Antoni Gaudí a légué l'intégralité de son patrimoine personnel pour financer la Sagrada Família, comme le révèle une copie de son testament datant de 1926, rendue…",
+     "link": "https://www.franceinfo.fr/monde/espagne/l-architecte-catalan-antoni-gaudi-a-sacrifie-tout-son-heritage-pour-construire-la-sagrada-familia_8297973.html#xtor=RSS-3-%5Bmonde%5D",
      "source": "franceinfo",
-     "date": "2026-11-24T11:24:32+00:00"
+     "date": "2026-11-25T10:00:02+00:00"
     },
     {
-     "title": "Les sauveteurs d'\"Alerte à Malibu\" reprennent du service à Los Angeles",
-     "desc": "Célèbre pour ses héros à la plastique irréprochable et ses maillots de bain rouges, \"Alerte à Malibu\", la série culte des années 1990, fait son retour avec un nouveau casting.",
-     "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/les-sauveteurs-d-alerte-a-malibu-reprennent-du-service-a-los-angeles_8275367.html#xtor=RSS-3-%5Bmonde%5D",
+     "title": "\"Leurs vies sont devenues du jour au lendemain un enfer\" : pour protéger la CPI des pressions étrangères, le Parlement européen exige de la Commission une \"stratégie globale\"",
+     "desc": "Face aux attaques, sanctions et menaces de sanctions des Etats-Unis contre la Cour pénale internationale et ses juges, le Parlement européen avait déjà décidé de leur décerner son prix Sakharov 2026 pour la liberté de…",
+     "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/leurs-vies-sont-devenues-du-jour-au-lendemain-un-enfer-pour-proteger-la-cpi-des-pressions-etrangeres-le-parlement-europeen-exige-de-la-commission-une-strategie-globale_8298972.html#xtor=RSS-3-%5Bmonde%5D",
      "source": "franceinfo",
-     "date": "2026-11-24T11:04:11+00:00"
+     "date": "2026-11-25T09:54:06+00:00"
     },
     {
-     "title": "Canicules : en Angleterre, les vagues de chaleur ont fait plus de 5 200 morts durant l’été 2026",
-     "desc": "L’agence de sécurité sanitaire britannique ne publie pas à ce stade d’éléments sur l’âge, la répartition géographique et les causes précises de ces morts, comptabilisées entre mai et septembre.",
-     "link": "https://www.lemonde.fr/planete/article/2026/11/24/canicules-en-angleterre-les-vagues-de-chaleur-ont-fait-plus-de-5-200-morts-durant-l-ete-2026_6814748_3244.html",
-     "source": "Le Monde",
-     "date": "2026-11-24T10:55:48+00:00"
-    },
-    {
-     "title": "Des frappes israéliennes à Gaza font six morts, dont un adolescent, selon les secours",
-     "desc": "L'armée israélienne a notamment déclaré avoir \"frappé des terroristes\", sans fournir davantage de précisions dans l'immédiat.",
-     "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/des-frappes-israeliennes-a-gaza-font-six-morts-dont-un-adolescent-selon-les-secours_8297418.html#xtor=RSS-3-%5Bmonde%5D",
+     "title": "Un homme et son chien emportés par la mer aux États-Unis",
+     "desc": "🌊 Frayeur à Cannon Beach aux États-Unis. Un homme et son chien ont été emportés par de puissantes vagues lors des fortes marées. Malgré les avertissements de la police, l'homme s'est approché du rivage et son chien a…",
+     "link": "https://www.franceinfo.fr/faits-divers/un-homme-et-son-chien-emportes-par-la-mer-aux-etats-unis_8299134.html#xtor=RSS-3-%5Bmonde%5D",
      "source": "franceinfo",
-     "date": "2026-11-24T10:53:40+00:00"
+     "date": "2026-11-25T09:54:02+00:00"
     }
    ]
   },
@@ -262,46 +255,46 @@
    "title": "Sport",
    "items": [
     {
-     "title": "Anorexie, dépression... La belle revanche de Marjolaine Pierré, sacrée championne du monde de triathlon longue distance",
-     "desc": "La triathlète française, déjà titrée en 2023 et 2025, a décroché une troisième couronne mondiale, dimanche, en triathlon longue distance à Abou Dhabi.",
-     "link": "https://www.franceinfo.fr/sports/triathlon/anorexie-depression-la-belle-revanche-de-marjolaine-pierre-sacree-championne-du-monde-de-triathlon-longue-distance_8297409.html#xtor=RSS-3-%5Bsports%5D",
+     "title": "REPORTAGE. Les calendriers de matchs surchargés sont de plus en plus critiqués par les footballeurs dont les blessures se multiplient",
+     "desc": "Le PSG jouera mercredi sans Désiré Doué ni Khvicha Kvaratskhelia, tous deux victimes de rupture du ligament croisé du genou. Harry Kane, blessé à la cheville, ne jouera pas non plus avec le Bayern de Munich. Et certains…",
+     "link": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/reportage-les-calendriers-de-matchs-surcharges-sont-de-plus-en-plus-critiques-par-les-footballeurs-dont-les-blessures-se-multiplient_8289860.html#xtor=RSS-3-%5Bsports%5D",
      "source": "franceinfo",
-     "date": "2026-11-24T10:20:58+00:00"
+     "date": "2026-11-25T12:38:22+00:00"
     },
     {
-     "title": "Stellantis quitte la compétition sportive",
-     "desc": "L’annonce marque les esprits dans le sport automobile : Peugeot abandonne les 24 Heures du Mans. Le constructeur auto se retire même de toutes les compétitions sportives internationales, en pleine crise du secteur.",
-     "link": "https://www.franceinfo.fr/replay-radio/le-brief-eco/stellantis-quitte-la-competition-sportive_8275340.html#xtor=RSS-3-%5Bsports%5D",
+     "title": "Arthur Rinderknech accusé d'avoir refusé un contrôle antidopage, le tennisman français se dit \"convaincu\" d'être \"innocenté\"",
+     "desc": "Le journal \"L'Equipe\" a affirmé mardi que le Français de 31 ans \"aurait refusé de se soumettre à un contrôle antidopage inopiné début juin\". L'agence antidopage a confirmé qu'il était inculpé. Le 57e joueur mondial…",
+     "link": "https://www.franceinfo.fr/sports/tennis/je-suis-convaincu-que-je-serai-innocente-arthur-rinderknech-rejette-les-accusations-de-refus-de-se-soumettre-a-un-controle-antidopage_8298981.html#xtor=RSS-3-%5Bsports%5D",
      "source": "franceinfo",
-     "date": "2026-11-24T07:51:32+00:00"
+     "date": "2026-11-25T11:12:50+00:00"
     },
     {
-     "title": "L'UE veut priver les athlètes russes de compétitions européennes, une sanction symbolique déjà utilisée à de nombreuses reprises dans l'Histoire",
-     "desc": "L'UE envisage d'interdire les athlètes russes des compétitions européennes. La mesure, proposée lundi, pourrait faire partie du 22e paquet de sanctions que prépare actuellement l’Europe contre la Russie.",
-     "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/l-ue-veut-priver-les-athletes-russes-de-competitions-europeennes-une-sanction-symbolique-deja-utilisee-a-de-nombreuses-reprises-dans-l-histoire_8275370.html#xtor=RSS-3-%5Bsports%5D",
+     "title": "Elise Prodhomme et Lauriane Dolt, deux pionnières dans le basket masculin français",
+     "desc": "Pour la première fois dans le basket professionnel masculin, deux équipes dirigées par des femmes se sont affrontées : lors de la rencontre d’Elite 2 entre Vichy et Le Havre, Elise Prodhomme et Lauriane Dolt ont écrit…",
+     "link": "https://www.franceinfo.fr/sports/basket/elise-prodhomme-et-lauriane-dolt-deux-pionnieres-dans-le-basket-masculin-francais_8299041.html#xtor=RSS-3-%5Bsports%5D",
      "source": "franceinfo",
-     "date": "2026-11-24T06:53:25+00:00"
+     "date": "2026-11-25T09:14:55+00:00"
     },
     {
-     "title": "Après l'humiliation face à Côme, Lens doit repartir de l'avant en Ligue des champions contre Leipzig",
-     "desc": "Intronisé le 13 novembre, Didier Digard est déjà le troisième entraîneur de la saison du RC Lens. Ses joueurs affrontent, mardi soir, les Allemands de Leipzig.",
-     "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/apres-l-humiliation-face-a-come-lens-doit-repartir-de-l-avant-en-ligue-des-champions-contre-leipzig_8296112.html#xtor=RSS-3-%5Bsports%5D",
+     "title": "Sénégal vainqueur de la CAN : \"Cela va créer un précédent\", analyse un avocat en droit du sport après la décision du Tribunal arbitral du sport",
+     "desc": "D'après Christophe Bertrand, la décision du TAS, délivrée mardi, est plutôt logique. L'inverse aurait pu mener au réexamen de n'importe quel choix arbitral.",
+     "link": "https://www.franceinfo.fr/sports/foot/can/senegal-vainqueur-de-la-can-cela-va-creer-un-precedent-analyse-un-avocat-en-droit-du-sport-apres-la-decision-du-tribunal-arbitral-du-sport_8298201.html#xtor=RSS-3-%5Bsports%5D",
      "source": "franceinfo",
-     "date": "2026-11-24T05:00:03+00:00"
+     "date": "2026-11-25T08:24:08+00:00"
     },
     {
-     "title": "Route du Rhum : Armel Le Cléac'h raconte comment il a chaviré puis attendu dix heures en mer avant d'être secouru",
-     "desc": "Le 4 novembre, alors qu'il était deuxième de la route du Rhum, une rafale a fait chavirer le trimaran d'Armel Le Cléac'h. Pour France Télévisions, il revient sur son sauvetage, après dix heures d'attente en haute mer.",
-     "link": "https://www.franceinfo.fr/sports/voile/route-du-rhum/route-du-rhum-armel-le-cleac-h-raconte-comment-il-a-chavire-puis-attendu-dix-heures-en-mer-avant-d-etre-secouru_8296800.html#xtor=RSS-3-%5Bsports%5D",
+     "title": "Le hip-hop, de la rue à l'Unesco ?",
+     "desc": "Le hip-hop pourrait bien faire son entrée à l'Organisation des Nations unies pour l'éducation, la science et la culture, une reconnaissance qui permettrait au genre, plébiscité dans l'Hexagone, d'être encore plus…",
+     "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/le-hip-hop-de-la-rue-a-l-unesco_8298861.html#xtor=RSS-3-%5Bsports%5D",
      "source": "franceinfo",
-     "date": "2026-11-23T21:32:17+00:00"
+     "date": "2026-11-25T06:20:57+00:00"
     },
     {
-     "title": "Grégory Alldritt souffre d'une lésion au mollet et est contraint de quitter le groupe avant la finale du Championnat des nations",
-     "desc": "Le troisième-ligne centre n'avait pas été retenu dans le groupe des 42 pour préparer la finale du Championnat des nations, contre l'Afrique du Sud, qui aura lieu dimanche.",
-     "link": "https://www.franceinfo.fr/sports/rugby/coupe-d-automne-des-nations/gregory-alldritt-souffre-d-une-lesion-au-mollet-et-est-contraint-de-quitter-le-groupe-avant-la-finale-du-championnat-des-nations_8296587.html#xtor=RSS-3-%5Bsports%5D",
+     "title": "\"Vous pensez qu'on va se mettre à pleurer ?\" : Luis Enrique garde confiance en son équipe avant PSG-AS Rome, malgré les blessures sérieuses de Doué et Kvaratskhelia",
+     "desc": "Privé de deux de ses meilleurs atouts offensifs jusqu'à la fin du printemps a minima, l'entraîneur espagnol préfère considérer la situation comme un \"beau défi à relever\" plutôt que comme un coup dur.",
+     "link": "https://www.franceinfo.fr/sports/foot/psg/vous-pensez-qu-on-va-se-mettre-a-pleurer-luis-enrique-garde-confiance-en-son-equipe-avant-psg-as-rome-malgre-les-blessures-serieuses-de-doue-et-kvaratskhelia_8298276.html#xtor=RSS-3-%5Bsports%5D",
      "source": "franceinfo",
-     "date": "2026-11-23T17:58:37+00:00"
+     "date": "2026-11-25T05:15:02+00:00"
     }
    ]
   }
